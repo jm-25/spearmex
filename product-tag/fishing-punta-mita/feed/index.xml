@@ -12,25 +12,31 @@
 	<atom:link href="/product-tag/fishing-punta-mita/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Luxury Fishing &#38; Spearfishing adventures in Punta Mita, Nayarit Mexico</description>
-	<lastBuildDate>Tue, 24 Dec 2019 21:33:42 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 21 Mar 2023 19:14:48 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.7</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/03/favicon-100x100.png</url>
+	<title>Fishing Punta Mita &#8211; Spearmex</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Kayak Fishing</title>
-		<link>/kayak-fishing/</link>
-					<comments>/kayak-fishing/#respond</comments>
+		<link>/product/kayak-fishing/</link>
+					<comments>/product/kayak-fishing/#respond</comments>
 		
 		<dc:creator><![CDATA[Jorge Gallegos]]></dc:creator>
 		<pubDate>Tue, 31 Jul 2018 08:00:13 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product&#038;p=87</guid>
+				<guid isPermaLink="false">/?post_type=product#038;p=87</guid>
 
-					<description><![CDATA[<p>This one-of-a-kind fishing experience combines the adrenaline of hooking a good catch and the challenge of maneuvering your kayak at the same time.</p>
-<p>The post <a rel="nofollow" href="/kayak-fishing/">Kayak Fishing</a> appeared first on <a rel="nofollow" href="/">Spearmex</a>.</p>
-]]></description>
+					<description><![CDATA[This one-of-a-kind fishing experience combines the adrenaline of hooking a good catch and the challenge of maneuvering your kayak at the same time.]]></description>
 										<content:encoded><![CDATA[<p>Paddle out at dawn on out a custom-made fishing kayak for a unique, true life ‘Old Man and the Sea’ epic.</p>
 <p>Our Jackson® fishing kayaks are equipped with the very best fishing equipment and experienced guides accompany you on your journey to lead you through an hour of the most unique fishing experience offered. Chance upon catches of jacks, snapper, pompano, and other coastal and reef fish while simultaneously handling your fishing vessel.</p>
 <p>This excursion has gained fans all over the world due to the level of difficulty that it brings. Are you up for the challenge?</p>
@@ -44,10 +50,9 @@
 <li>Specially trained, bilingual and experienced Guide and Deckhands</li>
 <li>Fresh ceviche and/or sashimi on board</li>
 </ul>
-<p>The post <a rel="nofollow" href="/kayak-fishing/">Kayak Fishing</a> appeared first on <a rel="nofollow" href="/">Spearmex</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/kayak-fishing/feed/</wfw:commentRss>
+					<wfw:commentRss>/product/kayak-fishing/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
