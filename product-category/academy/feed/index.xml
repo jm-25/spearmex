@@ -12,7 +12,7 @@
 	<atom:link href="/product-category/academy/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Luxury Fishing &#38; Spearfishing adventures in Punta Mita, Nayarit Mexico</description>
-	<lastBuildDate>Wed, 06 May 2020 22:46:29 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 21 Aug 2018 16:02:08 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,207 +28,56 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Advanced Open Water Diver</title>
-		<link>/product/advanced-open-water-diver/</link>
-					<comments>/product/advanced-open-water-diver/#respond</comments>
+		<title>Academy</title>
+		<link></link>
 		
 		<dc:creator><![CDATA[Jorge Gallegos]]></dc:creator>
-		<pubDate>Wed, 06 May 2020 22:37:33 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=1904</guid>
+		<pubDate>Sat, 28 Jul 2018 04:21:06 +0000</pubDate>
+				<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[This course can be taken after completing the PADI Open Water Diver certification. It's titled PADI Advanced Open Water Diver because it advances your diving knowledge &#38;amp; skills.]]></description>
-										<content:encoded><![CDATA[<p><strong>This course can be taken after completing the PADI Open Water Diver certification. It&#8217;s titled PADI Advanced Open Water Diver because it advances your diving knowledge &amp; skills.</strong></p>
-<p>That’s what the PADI Advanced Open Water Diver course is all about. You don’t have to be “advanced” to take it – it’s designed to advance your diving, so you can start right after earning your PADI Open Water Diver certification. The course helps build confidence and expand your scuba skills through different Adventure Dives. You try out different specialties while gaining experience under the supervision of your PADI Instructor. You log dives and develop capabilities as you find new ways to have fun scuba diving.</p>
-<h2>Academic</h2>
-<p>You’ll plan your learning path with your instructor by choosing from a long list of Adventure Dives. There are two required dives – Deep and Underwater Navigation – and you choose the other three, for a total of five dives.<br />
-During the Deep Adventure Dive, you learn how to plan dives to deal with the physiological effects and challenges of deeper scuba diving. The Underwater Navigation Adventure Dive refines your compass navigation skills and helps you better navigate using kick-cycles, visual landmarks and time.</p>
-<p>The other knowledge and skills you get vary with your interest and the adventures you have – photography, buoyancy control, fish identification, exploring wrecks and many more.</p>
-]]></content:encoded>
+					<description><![CDATA[Showing all 6 results Default sorting Sort by popularity Sort by average rating Sort by latest Sort by price: low to high Sort by price: high to low Sort by oldest to newest Advanced Freediver Read more Advanced Open Water Diver Read more Basic Freediving Read more Discover Scuba Diving Read more Open Water Diver&#8230;]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce columns-3 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
+	Showing all 6 results</p>
+<form class="woocommerce-ordering" method="get">
+	<select name="orderby" class="orderby" aria-label="Shop order">
+					<option value="menu_order"  selected='selected'>Default sorting</option>
+					<option value="popularity" >Sort by popularity</option>
+					<option value="rating" >Sort by average rating</option>
+					<option value="date" >Sort by latest</option>
+					<option value="price" >Sort by price: low to high</option>
+					<option value="price-desc" >Sort by price: high to low</option>
+					<option value="oldest_to_newest" >Sort by oldest to newest</option>
+			</select>
+	<input type="hidden" name="paged" value="1" />
+	<input type="hidden" name="simply_static_page" value="63807" /></form>
+<ul class="products columns-3">
+<li class="product type-product post-472 status-publish first instock product_cat-academy product_cat-expedition product_cat-freediving product_tag-luxury-fishing-charters-puerto-vallarta product_tag-luxury-fishing-punta-mita product_tag-luxury-sport-fishing-puerto-vallarta product_tag-spearfishing product_tag-spearfishing-punta-mita has-post-thumbnail virtual product-type-simple">
+	<a href="/product/freediving-level-2/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="600" height="450" src="/wp-content/uploads/2018/08/Freediving-level-2-600x450.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" /><span class="et_overlay"></span></span>
+	<div class="product-body"> <h2 class="woocommerce-loop-product__title">Advanced Freediver</h2>	</div>     
+    <div class="product-footer"> </a><a href="/product/freediving-level-2/" data-quantity="1" class="button wp-element-button product_type_simple" data-product_id="472" data-product_sku="" aria-label="Read more about &ldquo;Advanced Freediver&rdquo;" rel="nofollow">Read more</a>    </div>
+</li><li class="product type-product post-1904 status-publish instock product_cat-academy product_cat-scubadiving has-post-thumbnail shipping-taxable product-type-simple">
+	<a href="/product/advanced-open-water-diver/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="448" height="336" src="/wp-content/uploads/2020/05/advanced-open-water-diver_0.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" srcset="/wp-content/uploads/2020/05/advanced-open-water-diver_0.jpg 448w, /wp-content/uploads/2020/05/advanced-open-water-diver_0-300x225.jpg 300w, /wp-content/uploads/2020/05/advanced-open-water-diver_0-162x122.jpg 162w, /wp-content/uploads/2020/05/advanced-open-water-diver_0-69x52.jpg 69w" sizes="(max-width: 448px) 100vw, 448px" /><span class="et_overlay"></span></span>
+	<div class="product-body"> <h2 class="woocommerce-loop-product__title">Advanced Open Water Diver</h2>	</div>     
+    <div class="product-footer"> </a><a href="/product/advanced-open-water-diver/" data-quantity="1" class="button wp-element-button product_type_simple" data-product_id="1904" data-product_sku="" aria-label="Read more about &ldquo;Advanced Open Water Diver&rdquo;" rel="nofollow">Read more</a>    </div>
+</li><li class="product type-product post-95 status-publish last instock product_cat-academy product_cat-expedition product_cat-freediving product_tag-luxury-fishing-charters-puerto-vallarta product_tag-luxury-fishing-punta-mita product_tag-luxury-sport-fishing-puerto-vallarta product_tag-spearfishing product_tag-spearfishing-punta-mita has-post-thumbnail shipping-taxable product-type-simple">
+	<a href="/product/discover-freediving/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="600" height="450" src="/wp-content/uploads/2018/07/Discover-freediving-Punta-Mita-level1-600x450.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" /><span class="et_overlay"></span></span>
+	<div class="product-body"> <h2 class="woocommerce-loop-product__title">Basic Freediving</h2>	</div>     
+    <div class="product-footer"> </a><a href="/product/discover-freediving/" data-quantity="1" class="button wp-element-button product_type_simple" data-product_id="95" data-product_sku="" aria-label="Read more about &ldquo;Basic Freediving&rdquo;" rel="nofollow">Read more</a>    </div>
+</li><li class="product type-product post-1900 status-publish first instock product_cat-academy product_cat-scubadiving has-post-thumbnail shipping-taxable product-type-simple">
+	<a href="/product/discover-scuba-diving/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="448" height="336" src="/wp-content/uploads/2020/05/open-water-diver_0.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" srcset="/wp-content/uploads/2020/05/open-water-diver_0.jpg 448w, /wp-content/uploads/2020/05/open-water-diver_0-300x225.jpg 300w, /wp-content/uploads/2020/05/open-water-diver_0-162x122.jpg 162w, /wp-content/uploads/2020/05/open-water-diver_0-69x52.jpg 69w" sizes="(max-width: 448px) 100vw, 448px" /><span class="et_overlay"></span></span>
+	<div class="product-body"> <h2 class="woocommerce-loop-product__title">Discover Scuba Diving</h2>	</div>     
+    <div class="product-footer"> </a><a href="/product/discover-scuba-diving/" data-quantity="1" class="button wp-element-button product_type_simple" data-product_id="1900" data-product_sku="" aria-label="Read more about &ldquo;Discover Scuba Diving&rdquo;" rel="nofollow">Read more</a>    </div>
+</li><li class="product type-product post-1903 status-publish instock product_cat-academy product_cat-scubadiving has-post-thumbnail shipping-taxable product-type-simple">
+	<a href="/product/open-water-diver/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="448" height="336" src="/wp-content/uploads/2020/05/adaptive_hero_standard_com.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" srcset="/wp-content/uploads/2020/05/adaptive_hero_standard_com.jpg 448w, /wp-content/uploads/2020/05/adaptive_hero_standard_com-300x225.jpg 300w, /wp-content/uploads/2020/05/adaptive_hero_standard_com-162x122.jpg 162w, /wp-content/uploads/2020/05/adaptive_hero_standard_com-69x52.jpg 69w" sizes="(max-width: 448px) 100vw, 448px" /><span class="et_overlay"></span></span>
+	<div class="product-body"> <h2 class="woocommerce-loop-product__title">Open Water Diver</h2>	</div>     
+    <div class="product-footer"> </a><a href="/product/open-water-diver/" data-quantity="1" class="button wp-element-button product_type_simple" data-product_id="1903" data-product_sku="" aria-label="Read more about &ldquo;Open Water Diver&rdquo;" rel="nofollow">Read more</a>    </div>
+</li><li class="product type-product post-96 status-publish last instock product_cat-academy product_cat-expedition product_cat-freediving product_tag-luxury-fishing-charters-puerto-vallarta product_tag-luxury-fishing-punta-mita product_tag-luxury-sport-fishing-puerto-vallarta product_tag-spearfishing product_tag-spearfishing-punta-mita has-post-thumbnail virtual product-type-simple">
+	<a href="/product/freediving-level-1/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="600" height="450" src="/wp-content/uploads/2018/08/GOPR0916-600x450.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" /><span class="et_overlay"></span></span>
+	<div class="product-body"> <h2 class="woocommerce-loop-product__title">PADI Freediver</h2>	</div>     
+    <div class="product-footer"> </a><a href="/product/freediving-level-1/" data-quantity="1" class="button wp-element-button product_type_simple" data-product_id="96" data-product_sku="" aria-label="Read more about &ldquo;PADI Freediver&rdquo;" rel="nofollow">Read more</a>    </div>
+</li></ul>
+</div>]]></content:encoded>
 					
-					<wfw:commentRss>/product/advanced-open-water-diver/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Open Water Diver</title>
-		<link>/product/open-water-diver/</link>
-					<comments>/product/open-water-diver/#respond</comments>
-		
-		<dc:creator><![CDATA[Jorge Gallegos]]></dc:creator>
-		<pubDate>Wed, 06 May 2020 22:34:16 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=1903</guid>
-
-					<description><![CDATA[Diver certification begins here. Start with PADI's online eLearning course. Move to the pool and practice your new skills. Then experience four open water (ocean/lake) dives.]]></description>
-										<content:encoded><![CDATA[<p><strong>Diver certification begins here. Start with PADI&#8217;s online eLearning course. Move to the pool and practice your new skills. Then experience four open water (ocean/lake) dives.</strong></p>
-<p>If you’ve always wanted to take scuba diving lessons, experience unparalleled adventure and see the world beneath the waves, this is where it starts. Get your scuba diving certification with the PADI® Open Water Diver course – the world’s most popular and widely recognized scuba course. Millions of people have learned to scuba dive and gone on to discover the wonders of the aquatic world through this course. To enroll in a PADI Open Water Diver course (or Junior Open Water Diver course), you must be 10 years old or older. You need adequate swimming skills and need to be in good physical health. No prior experience with scuba diving is required.</p>
-<h2>Academic</h2>
-<p><strong>The PADI Open Water Diver course consists of three main phases:</strong></p>
-<ul>
-<li>Knowledge Development ( <a href="https://apps.padi.com/scuba-diving/elearning/">online</a>, independent study or in a classroom) to understand basic principles of scuba diving</li>
-<li>Confined Water Dives to learn basic scuba skills</li>
-<li>Open Water Dives to use your skills and explore!</li>
-</ul>
-]]></content:encoded>
-					
-					<wfw:commentRss>/product/open-water-diver/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Discover Scuba Diving</title>
-		<link>/product/discover-scuba-diving/</link>
-					<comments>/product/discover-scuba-diving/#respond</comments>
-		
-		<dc:creator><![CDATA[Jorge Gallegos]]></dc:creator>
-		<pubDate>Wed, 06 May 2020 22:30:48 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=1900</guid>
-
-					<description><![CDATA[Diver certification begins here. Start with PADI's online eLearning course. Move to the pool and practice your new skills. Then experience four open water (ocean/lake) dives.]]></description>
-										<content:encoded><![CDATA[<p><strong>A quick and easy introduction into what it takes to explore the underwater world. Although this is not a scuba certification course, you&#8217;ll learn all the steps it takes to be a PADI certified diver.</strong></p>
-<p>Have you always wondered what it’s like to breathe underwater? If you want to try scuba diving, but aren’t quite ready to take the plunge into a certification course, Discover Scuba Diving is for you. PADI dive shops offer this program either in a pool, off a beach or from a dive boat. You can try scuba close to home or while you’re on vacation at a dive destination. While not a scuba certification course, Discover Scuba Diving is a quick and easy introduction to what it takes to explore the underwater world. To sign up for a PADI Discover Scuba Diving experience, you must be at least 10 years old. No prior experience with scuba diving is necessary, but you need to be in reasonable physical health. Are you ready to try it out? Use the event locator to find and schedule a Discover Scuba Diving experience near you.</p>
-<p>You learn the basic safety guidelines and skills needed to dive under the direct supervision of a PADI Professional. If you make an open water dive, you’ll practice a few more skills in shallow water to prepare for your adventure. Get ready to:</p>
-<ul>
-<li>Go over the <a title="Learn About Scuba Equipment" href="https://www.padi.com/help/gear-faq">scuba equipment</a> you use to dive and how easy it is to move around underwater with your gear.</li>
-<li>Find out what it’s like to breathe underwater.</li>
-<li>Learn key skills that you’ll use during every scuba dive.</li>
-<li>Have fun swimming around and exploring.</li>
-<li>Hear about becoming a certified diver through the <a title="PADI Open Water Diver Course" href="https://www.padi.com/courses/open-water-diver">PADI Open Water Diver course</a>.</li>
-</ul>
-]]></content:encoded>
-					
-					<wfw:commentRss>/product/discover-scuba-diving/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Basic Freediving</title>
-		<link>/product/discover-freediving/</link>
-					<comments>/product/discover-freediving/#respond</comments>
-		
-		<dc:creator><![CDATA[Jorge Gallegos]]></dc:creator>
-		<pubDate>Tue, 31 Jul 2018 10:00:34 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=95</guid>
-
-					<description><![CDATA[Learn basic freediving principles and focus on practicing breathhold techniques in a pool or confined water site.]]></description>
-										<content:encoded><![CDATA[<p>Freediving has been captivating the world for years with romantic visions of lone divers in the deep blue, unprecedented marine-life encounters, and the alluring discipline of moving meditation. Now it is your chance to immerse yourself in a magnificent underwater world that can only be experienced from within. A truly intriguing way to explore the aquatic realm, the practice of free diving is simultaneously a personal challenge and an experience of bliss; both an exercise and a meditation; a solo act that at the same time creates a feeling of unity and belonging.</p>
-<p>Whether your goal is to become part of the reef or dive into the endless blue, Spearmex will introduce you to the best local sites appropriate for your skill level. Our certified instructors will share tips and techniques for deeper dives and richer adventures while allowing the safest and most enjoyable day on (and under) the water.</p>
-<p>The internal discipline of diving to depths on a single breath welcomes the absolute best in marine life encounters… and Pacific Mexico has the best to offer with dynamic volcanic reefs, hearty marine life, and clean nutrient rich waters. Come and challenge yourself to explore the beauty of the ocean in a compelling new way.</p>
-<h5 style="text-align: right;">“Man has only to sink beneath the surface and he is free.” -Jacques Yves Cousteau</h5>
-<p>&nbsp;</p>
-<p>To enroll in a PADI Basic Freediver course you must be 12 years old or older. You need adequate swimming skills and need to be in good physical health. No prior experience with snorkeling, skin diving or freediving is required.</p>
-<p><strong>The PADI Basic Freediver course consists of two main phases:</strong></p>
-<ul>
-<li>Knowledge development through independent study with the PADI <em>Freediver eLearning</em> (or your instructor may conduct class sessions if not available in a language you understand).</li>
-<li>Confined water session to learn breathhold techniques as well as static and dynamic apnea, plus proper buddy procedures. Goal – static apnea of 90 seconds and dynamic apnea of 25 metres/80 feet</li>
-</ul>
-<p>&nbsp;</p>
-<h2>Features</h2>
-<ul>
-<li>3-hour experience</li>
-<li>HD photography and videos by GO PRO</li>
-<li>Drinks (bottled water, electrolit, sodas) and snacks (chicken wraps, fruits selection and cookies)</li>
-<li>Safety gear on every boat (life jackets and marine first aid kit)</li>
-<li>Specially trained, bilingual and experienced Captain and Deckhands</li>
-</ul>
-]]></content:encoded>
-					
-					<wfw:commentRss>/product/discover-freediving/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>PADI Freediver</title>
-		<link>/product/freediving-level-1/</link>
-					<comments>/product/freediving-level-1/#respond</comments>
-		
-		<dc:creator><![CDATA[Jorge Gallegos]]></dc:creator>
-		<pubDate>Tue, 31 Jul 2018 09:00:17 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=96</guid>
-
-					<description><![CDATA[Your first step toward discovering why freediving is becoming a popular way to explore beneath the waves. No previous freediving course is required.]]></description>
-										<content:encoded><![CDATA[<div class="row">
-<div class="col-md-8 col-lg-9">Experience freediving with Pacific Mexico’s one and only freediving academy, Spearmex, Gain the skills and confidence to take on diving’s purest discipline… one of mind and body.</div>
-<div class="col-md-8 col-lg-9"><span style="font-size: 1rem;">In this complete PADI Freediver course, you will learn the most relevant techniques to train and adapt your body to be as efficient as possible while apnea diving. You will learn techniques to calm the mind and be introduced to the physiological changes your body undergoes while diving.</span></div>
-<div class="col-md-8 col-lg-9"></div>
-<div class="col-md-8 col-lg-9">
-<p>Some take up free diving as a sport to challenge their human limits or as a mental discipline to compliment their yoga and meditation practices. Many just want to take snorkeling to the next level; experience the underwater world from within and enjoy more intimate marine life encounters. For others, free diving is the first step towards spearfishing, to bring a sense of autonomy into a modern lifestyle by hunting their own food.</p>
-<p>Whatever your goals…</p>
-<p><strong>Your journey begins here!</strong></p>
-</div>
-<p>&nbsp;</p>
-<div class="col-md-4 col-lg-3">
-<blockquote>
-<div class="dictionary"><strong>ap·ne·a</strong><br />
-<span class="pron">[ ap-nee-uh ]</span><br />
-<em>temporary cessation of breathing</em></div>
-</blockquote>
-<blockquote>
-<div class="dictionary"><strong>free·div·ing</strong><br />
-<span class="pron">[ free-dai-vuhng]</span><br />
-<em>diving under the water independent of the use of breathing apparatus, especially in deep water.</em></div>
-</blockquote>
-</div>
-</div>
-<p>To enroll in a PADI Freediver course you must be at least 15 years old. You need adequate swimming skills and need to be in good physical health. No prior experience with snorkeling, skin diving or freediving is required.</p>
-<h2>Academic</h2>
-<p><strong>The PADI Freediver course consists of three main phases:</strong></p>
-<ul>
-<li>Knowledge development about freediving principles through independent study with PADI <em>Freediver eLearning</em> (or your instructor may conduct class sessions if not available in a language you understand).</li>
-<li>Confined water session to learn breathhold techniques as well as static and dynamic apnea. Goal – static apnea of 90 seconds and dynamic apnea of 25 metres/80 feet.</li>
-<li>Open water sessions to practice free immersion and constant weight freedives, plus proper buddy procedures. Goal – constant weight freedive of 10 metres/30 feet.</li>
-</ul>
-<h2>Features</h2>
-<ul>
-<li>2-day course</li>
-<li>HD photography and videos by GO PRO</li>
-<li>Drinks (bottled water, electrolit® drinks, sodas) and snacks (chicken wraps, fruits selection and cookies)</li>
-<li>Safety gear on every boat (life jackets and marine first aid kit)</li>
-<li>Specially trained, bilingual and experienced Captain and Deckhands</li>
-</ul>
-]]></content:encoded>
-					
-					<wfw:commentRss>/product/freediving-level-1/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Advanced Freediver</title>
-		<link>/product/freediving-level-2/</link>
-					<comments>/product/freediving-level-2/#respond</comments>
-		
-		<dc:creator><![CDATA[Jorge Gallegos]]></dc:creator>
-		<pubDate>Tue, 31 Jul 2018 07:00:20 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=472</guid>
-
-					<description><![CDATA[Designed to refine and improve your freediving skills, allowing you to progress slowly while learning how your body performs during apnea (suspension of breathing).]]></description>
-										<content:encoded><![CDATA[<p><strong>Designed to refine and improve your freediving skills, allowing you to progress slowly while learning how your body performs during apnea (suspension of breathing).</strong></p>
-<p>Achieving a new freediving time or reaching a new depth is an incredible feeling. It satisfies that very personal desire to do your best and be proud of what you can accomplish. The PADI Advanced Freediver course is designed to fulfill that personal need to refine and improve your freediving skills, allowing you to progress slowly while learning how your body performs during apnea.</p>
-<p>To enroll in a PADI Advanced Freediver course you must be at least 15 years old and have a PADI Freediver certification (or a qualifying certification from another freediver organization). You also need to have Emergency First Response Primary and Secondary Care (CPR and First Aid) training within the past 24 months. You can complete this training during the Rescue Diver course. Your instructor may also offer the PADI Emergency Oxygen Provider Specialty course at the same time.</p>
-<h2>Academic</h2>
-<p><strong>The PADI Advanced Freediver course consists of three main phases:</strong></p>
-<ul>
-<li>Knowledge development about advanced freediving techniques and equipment. You’ll study independently using the PADI Freediver eLearning (or your instructor may conduct class sessions if not available in your language).</li>
-<li>Confined water session to learn stretching and relaxation techniques as well as refine static and dynamic apnea. Goal – static apnea of 2 minutes, 30 seconds (2 minutes for freedivers younger than 18) and dynamic apnea of 50 metres/165 feet (40 metres/130 feet for freedivers younger than 18)</li>
-<li>Open water sessions to practice deeper free immersion and constant weight freedives, along with additional buddy procedures and rescue techniques. Goal – constant weight freedive of 20 meters/65 feet (15 metres/50 feet for freedivers younger than 18)</li>
-</ul>
-<h2>Features</h2>
-<ul>
-<li>3-day course</li>
-<li>Welcome kit (soft cooler, reusable water bottle, waterproof phone case)</li>
-<li>HD photography and videos by GO PRO</li>
-<li>Drinks (bottled water, electrolit, sodas) and snacks (chicken wraps, fruits selection and cookies)</li>
-<li>Safety gear on every boat (life jackets and marine first aid kit)</li>
-<li>Specially trained, bilingual and experienced Captain and Deckhands</li>
-</ul>
-]]></content:encoded>
-					
-					<wfw:commentRss>/product/freediving-level-2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

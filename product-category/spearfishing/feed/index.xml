@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Spearfishing &#8211; Spearmex</title>
+	<atom:link href="/product-category/spearfishing/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Luxury Fishing &#38; Spearfishing adventures in Punta Mita, Nayarit Mexico</description>
+	<lastBuildDate>Tue, 21 Aug 2018 16:02:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/03/favicon-100x100.png</url>
+	<title>Spearfishing &#8211; Spearmex</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Spearfishing</title>
+		<link></link>
+		
+		<dc:creator><![CDATA[Jorge Gallegos]]></dc:creator>
+		<pubDate>Sat, 28 Jul 2018 04:21:06 +0000</pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Showing all 3 results Default sorting Sort by popularity Sort by average rating Sort by latest Sort by price: low to high Sort by price: high to low Sort by oldest to newest Blue Water Hunting Read more Discover Spearfishing Read more Inshore Spearfishing Read more]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce columns-3 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
+	Showing all 3 results</p>
+<form class="woocommerce-ordering" method="get">
+	<select name="orderby" class="orderby" aria-label="Shop order">
+					<option value="menu_order"  selected='selected'>Default sorting</option>
+					<option value="popularity" >Sort by popularity</option>
+					<option value="rating" >Sort by average rating</option>
+					<option value="date" >Sort by latest</option>
+					<option value="price" >Sort by price: low to high</option>
+					<option value="price-desc" >Sort by price: high to low</option>
+					<option value="oldest_to_newest" >Sort by oldest to newest</option>
+			</select>
+	<input type="hidden" name="paged" value="1" />
+	<input type="hidden" name="simply_static_page" value="63794" /></form>
+<ul class="products columns-3">
+<li class="product type-product post-484 status-publish first instock product_cat-expedition product_cat-spearfishing product_tag-luxury-fishing-charters-puerto-vallarta product_tag-luxury-fishing-punta-mita product_tag-luxury-sport-fishing-puerto-vallarta product_tag-spearfishing product_tag-spearfishing-punta-mita has-post-thumbnail virtual product-type-simple">
+	<a href="/product/blue-water-hunting/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="600" height="450" src="/wp-content/uploads/2018/07/1-2-600x450.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" srcset="/wp-content/uploads/2018/07/1-2-600x450.jpg 600w, /wp-content/uploads/2018/07/1-2-510x382.jpg 510w" sizes="(max-width: 600px) 100vw, 600px" /><span class="et_overlay"></span></span>
+	<div class="product-body"> <h2 class="woocommerce-loop-product__title">Blue Water Hunting</h2>	</div>     
+    <div class="product-footer"> </a><a href="/product/blue-water-hunting/" data-quantity="1" class="button wp-element-button product_type_simple" data-product_id="484" data-product_sku="" aria-label="Read more about &ldquo;Blue Water Hunting&rdquo;" rel="nofollow">Read more</a>    </div>
+</li><li class="product type-product post-477 status-publish instock product_cat-expedition product_cat-spearfishing product_tag-luxury-fishing-charters-puerto-vallarta product_tag-luxury-fishing-punta-mita product_tag-luxury-sport-fishing-puerto-vallarta product_tag-spearfishing product_tag-spearfishing-punta-mita has-post-thumbnail shipping-taxable product-type-simple">
+	<a href="/product/discover-spearfishing/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="600" height="450" src="/wp-content/uploads/2018/07/1-3-600x450.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" srcset="/wp-content/uploads/2018/07/1-3-600x450.jpg 600w, /wp-content/uploads/2018/07/1-3-510x382.jpg 510w" sizes="(max-width: 600px) 100vw, 600px" /><span class="et_overlay"></span></span>
+	<div class="product-body"> <h2 class="woocommerce-loop-product__title">Discover Spearfishing</h2>	</div>     
+    <div class="product-footer"> </a><a href="/product/discover-spearfishing/" data-quantity="1" class="button wp-element-button product_type_simple" data-product_id="477" data-product_sku="" aria-label="Read more about &ldquo;Discover Spearfishing&rdquo;" rel="nofollow">Read more</a>    </div>
+</li><li class="product type-product post-483 status-publish last instock product_cat-expedition product_cat-spearfishing product_tag-luxury-fishing-charters-puerto-vallarta product_tag-luxury-fishing-punta-mita product_tag-luxury-sport-fishing-puerto-vallarta product_tag-spearfishing product_tag-spearfishing-punta-mita has-post-thumbnail virtual product-type-simple">
+	<a href="/product/spearfishing-inshore/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="600" height="450" src="/wp-content/uploads/2018/07/Spearfishing-Spearmex-Punta-Mita-Mexico-001-600x450.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" /><span class="et_overlay"></span></span>
+	<div class="product-body"> <h2 class="woocommerce-loop-product__title">Inshore Spearfishing</h2>	</div>     
+    <div class="product-footer"> </a><a href="/product/spearfishing-inshore/" data-quantity="1" class="button wp-element-button product_type_simple" data-product_id="483" data-product_sku="" aria-label="Read more about &ldquo;Inshore Spearfishing&rdquo;" rel="nofollow">Read more</a>    </div>
+</li></ul>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
