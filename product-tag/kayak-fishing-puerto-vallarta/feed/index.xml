@@ -12,13 +12,13 @@
 	<atom:link href="/product-tag/kayak-fishing-puerto-vallarta/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Luxury Fishing &#38; Spearfishing adventures in Punta Mita, Nayarit Mexico</description>
-	<lastBuildDate>Tue, 21 Aug 2018 16:02:08 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 21 Mar 2023 19:14:48 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.7</generator>
 
 <image>
 	<url>/wp-content/uploads/2023/03/favicon-100x100.png</url>
@@ -28,36 +28,32 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Kayak Fishing Puerto Vallarta</title>
-		<link></link>
+		<title>Kayak Fishing</title>
+		<link>/product/kayak-fishing/</link>
+					<comments>/product/kayak-fishing/#respond</comments>
 		
 		<dc:creator><![CDATA[Jorge Gallegos]]></dc:creator>
-		<pubDate>Sat, 28 Jul 2018 04:21:06 +0000</pubDate>
-				<guid isPermaLink="false"></guid>
+		<pubDate>Tue, 31 Jul 2018 08:00:13 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=87</guid>
 
-					<description><![CDATA[Showing the single result Default sorting Sort by popularity Sort by average rating Sort by latest Sort by price: low to high Sort by price: high to low Sort by oldest to newest Kayak Fishing Read more]]></description>
-										<content:encoded><![CDATA[<div class="woocommerce columns-3 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
-	Showing the single result</p>
-<form class="woocommerce-ordering" method="get">
-	<select name="orderby" class="orderby" aria-label="Shop order">
-					<option value="menu_order"  selected='selected'>Default sorting</option>
-					<option value="popularity" >Sort by popularity</option>
-					<option value="rating" >Sort by average rating</option>
-					<option value="date" >Sort by latest</option>
-					<option value="price" >Sort by price: low to high</option>
-					<option value="price-desc" >Sort by price: high to low</option>
-					<option value="oldest_to_newest" >Sort by oldest to newest</option>
-			</select>
-	<input type="hidden" name="paged" value="1" />
-	<input type="hidden" name="simply_static_page" value="63776" /></form>
-<ul class="products columns-3">
-<li class="product type-product post-87 status-publish first instock product_cat-expedition product_cat-sportfishing product_tag-fishing-punta-mita product_tag-kayak-fishing product_tag-kayak-fishing-puerto-vallarta product_tag-kayak-fishing-punta-mita product_tag-kayak-punta-mita product_tag-luxury-fishing-charters-puerto-vallarta product_tag-luxury-fishing-mexico product_tag-luxury-fishing-punta-mita product_tag-luxury-sport-fishing-puerto-vallarta product_tag-spearfishing product_tag-spearfishing-punta-mita has-post-thumbnail virtual product-type-simple">
-	<a href="/product/kayak-fishing/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="600" height="450" src="/wp-content/uploads/2018/07/1-600x450.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" srcset="/wp-content/uploads/2018/07/1-600x450.jpg 600w, /wp-content/uploads/2018/07/1-510x382.jpg 510w" sizes="(max-width: 600px) 100vw, 600px" /><span class="et_overlay"></span></span>
-	<div class="product-body"> <h2 class="woocommerce-loop-product__title">Kayak Fishing</h2>	</div>     
-    <div class="product-footer"> </a><a href="/product/kayak-fishing/" data-quantity="1" class="button wp-element-button product_type_simple" data-product_id="87" data-product_sku="" aria-label="Read more about &ldquo;Kayak Fishing&rdquo;" rel="nofollow">Read more</a>    </div>
-</li></ul>
-</div>]]></content:encoded>
+					<description><![CDATA[This one-of-a-kind fishing experience combines the adrenaline of hooking a good catch and the challenge of maneuvering your kayak at the same time.]]></description>
+										<content:encoded><![CDATA[<p>Paddle out at dawn on out a custom-made fishing kayak for a unique, true life ‘Old Man and the Sea’ epic.</p>
+<p>Our Jackson® fishing kayaks are equipped with the very best fishing equipment and experienced guides accompany you on your journey to lead you through an hour of the most unique fishing experience offered. Chance upon catches of jacks, snapper, pompano, and other coastal and reef fish while simultaneously handling your fishing vessel.</p>
+<p>This excursion has gained fans all over the world due to the level of difficulty that it brings. Are you up for the challenge?</p>
+<h2>Features</h2>
+<ul>
+<li>2-hour expedition</li>
+<li>1 hour expedition U$D 100.00</li>
+<li>HD photography and videos by GO PRO</li>
+<li>Drinks (bottled water, electrolit®, sodas)</li>
+<li>Safety gear on every boat (life jackets and marine first aid kit)</li>
+<li>Specially trained, bilingual and experienced Guide and Deckhands</li>
+<li>Fresh ceviche and/or sashimi on board</li>
+</ul>
+]]></content:encoded>
 					
+					<wfw:commentRss>/product/kayak-fishing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>

@@ -12,13 +12,13 @@
 	<atom:link href="/product-category/scubadiving/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Luxury Fishing &#38; Spearfishing adventures in Punta Mita, Nayarit Mexico</description>
-	<lastBuildDate>Tue, 21 Aug 2018 16:02:08 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 06 May 2020 22:45:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.7</generator>
 
 <image>
 	<url>/wp-content/uploads/2023/03/favicon-100x100.png</url>
@@ -28,44 +28,78 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Scubadiving</title>
-		<link></link>
+		<title>Advanced Open Water Diver</title>
+		<link>/product/advanced-open-water-diver/</link>
+					<comments>/product/advanced-open-water-diver/#respond</comments>
 		
 		<dc:creator><![CDATA[Jorge Gallegos]]></dc:creator>
-		<pubDate>Sat, 28 Jul 2018 04:21:06 +0000</pubDate>
-				<guid isPermaLink="false"></guid>
+		<pubDate>Wed, 06 May 2020 22:37:33 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=1904</guid>
 
-					<description><![CDATA[Showing all 3 results Default sorting Sort by popularity Sort by average rating Sort by latest Sort by price: low to high Sort by price: high to low Sort by oldest to newest Advanced Open Water Diver Read more Discover Scuba Diving Read more Open Water Diver Read more]]></description>
-										<content:encoded><![CDATA[<div class="woocommerce columns-3 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
-	Showing all 3 results</p>
-<form class="woocommerce-ordering" method="get">
-	<select name="orderby" class="orderby" aria-label="Shop order">
-					<option value="menu_order"  selected='selected'>Default sorting</option>
-					<option value="popularity" >Sort by popularity</option>
-					<option value="rating" >Sort by average rating</option>
-					<option value="date" >Sort by latest</option>
-					<option value="price" >Sort by price: low to high</option>
-					<option value="price-desc" >Sort by price: high to low</option>
-					<option value="oldest_to_newest" >Sort by oldest to newest</option>
-			</select>
-	<input type="hidden" name="paged" value="1" />
-	<input type="hidden" name="simply_static_page" value="68729" /></form>
-<ul class="products columns-3">
-<li class="product type-product post-1904 status-publish first instock product_cat-academy product_cat-scubadiving has-post-thumbnail shipping-taxable product-type-simple">
-	<a href="/product/advanced-open-water-diver/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="448" height="336" src="/wp-content/uploads/2020/05/advanced-open-water-diver_0.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" srcset="/wp-content/uploads/2020/05/advanced-open-water-diver_0.jpg 448w, /wp-content/uploads/2020/05/advanced-open-water-diver_0-300x225.jpg 300w, /wp-content/uploads/2020/05/advanced-open-water-diver_0-162x122.jpg 162w, /wp-content/uploads/2020/05/advanced-open-water-diver_0-69x52.jpg 69w" sizes="(max-width: 448px) 100vw, 448px" /><span class="et_overlay"></span></span>
-	<div class="product-body"> <h2 class="woocommerce-loop-product__title">Advanced Open Water Diver</h2>	</div>     
-    <div class="product-footer"> </a><a href="/product/advanced-open-water-diver/" data-quantity="1" class="button wp-element-button product_type_simple" data-product_id="1904" data-product_sku="" aria-label="Read more about &ldquo;Advanced Open Water Diver&rdquo;" rel="nofollow">Read more</a>    </div>
-</li><li class="product type-product post-1900 status-publish instock product_cat-academy product_cat-scubadiving has-post-thumbnail shipping-taxable product-type-simple">
-	<a href="/product/discover-scuba-diving/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="448" height="336" src="/wp-content/uploads/2020/05/open-water-diver_0.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" srcset="/wp-content/uploads/2020/05/open-water-diver_0.jpg 448w, /wp-content/uploads/2020/05/open-water-diver_0-300x225.jpg 300w, /wp-content/uploads/2020/05/open-water-diver_0-162x122.jpg 162w, /wp-content/uploads/2020/05/open-water-diver_0-69x52.jpg 69w" sizes="(max-width: 448px) 100vw, 448px" /><span class="et_overlay"></span></span>
-	<div class="product-body"> <h2 class="woocommerce-loop-product__title">Discover Scuba Diving</h2>	</div>     
-    <div class="product-footer"> </a><a href="/product/discover-scuba-diving/" data-quantity="1" class="button wp-element-button product_type_simple" data-product_id="1900" data-product_sku="" aria-label="Read more about &ldquo;Discover Scuba Diving&rdquo;" rel="nofollow">Read more</a>    </div>
-</li><li class="product type-product post-1903 status-publish last instock product_cat-academy product_cat-scubadiving has-post-thumbnail shipping-taxable product-type-simple">
-	<a href="/product/open-water-diver/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="et_shop_image"><img width="448" height="336" src="/wp-content/uploads/2020/05/adaptive_hero_standard_com.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" srcset="/wp-content/uploads/2020/05/adaptive_hero_standard_com.jpg 448w, /wp-content/uploads/2020/05/adaptive_hero_standard_com-300x225.jpg 300w, /wp-content/uploads/2020/05/adaptive_hero_standard_com-162x122.jpg 162w, /wp-content/uploads/2020/05/adaptive_hero_standard_com-69x52.jpg 69w" sizes="(max-width: 448px) 100vw, 448px" /><span class="et_overlay"></span></span>
-	<div class="product-body"> <h2 class="woocommerce-loop-product__title">Open Water Diver</h2>	</div>     
-    <div class="product-footer"> </a><a href="/product/open-water-diver/" data-quantity="1" class="button wp-element-button product_type_simple" data-product_id="1903" data-product_sku="" aria-label="Read more about &ldquo;Open Water Diver&rdquo;" rel="nofollow">Read more</a>    </div>
-</li></ul>
-</div>]]></content:encoded>
+					<description><![CDATA[This course can be taken after completing the PADI Open Water Diver certification. It's titled PADI Advanced Open Water Diver because it advances your diving knowledge &#38;amp; skills.]]></description>
+										<content:encoded><![CDATA[<p><strong>This course can be taken after completing the PADI Open Water Diver certification. It&#8217;s titled PADI Advanced Open Water Diver because it advances your diving knowledge &amp; skills.</strong></p>
+<p>That’s what the PADI Advanced Open Water Diver course is all about. You don’t have to be “advanced” to take it – it’s designed to advance your diving, so you can start right after earning your PADI Open Water Diver certification. The course helps build confidence and expand your scuba skills through different Adventure Dives. You try out different specialties while gaining experience under the supervision of your PADI Instructor. You log dives and develop capabilities as you find new ways to have fun scuba diving.</p>
+<h2>Academic</h2>
+<p>You’ll plan your learning path with your instructor by choosing from a long list of Adventure Dives. There are two required dives – Deep and Underwater Navigation – and you choose the other three, for a total of five dives.<br />
+During the Deep Adventure Dive, you learn how to plan dives to deal with the physiological effects and challenges of deeper scuba diving. The Underwater Navigation Adventure Dive refines your compass navigation skills and helps you better navigate using kick-cycles, visual landmarks and time.</p>
+<p>The other knowledge and skills you get vary with your interest and the adventures you have – photography, buoyancy control, fish identification, exploring wrecks and many more.</p>
+]]></content:encoded>
 					
+					<wfw:commentRss>/product/advanced-open-water-diver/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Open Water Diver</title>
+		<link>/product/open-water-diver/</link>
+					<comments>/product/open-water-diver/#respond</comments>
+		
+		<dc:creator><![CDATA[Jorge Gallegos]]></dc:creator>
+		<pubDate>Wed, 06 May 2020 22:34:16 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=1903</guid>
+
+					<description><![CDATA[Diver certification begins here. Start with PADI's online eLearning course. Move to the pool and practice your new skills. Then experience four open water (ocean/lake) dives.]]></description>
+										<content:encoded><![CDATA[<p><strong>Diver certification begins here. Start with PADI&#8217;s online eLearning course. Move to the pool and practice your new skills. Then experience four open water (ocean/lake) dives.</strong></p>
+<p>If you’ve always wanted to take scuba diving lessons, experience unparalleled adventure and see the world beneath the waves, this is where it starts. Get your scuba diving certification with the PADI® Open Water Diver course – the world’s most popular and widely recognized scuba course. Millions of people have learned to scuba dive and gone on to discover the wonders of the aquatic world through this course. To enroll in a PADI Open Water Diver course (or Junior Open Water Diver course), you must be 10 years old or older. You need adequate swimming skills and need to be in good physical health. No prior experience with scuba diving is required.</p>
+<h2>Academic</h2>
+<p><strong>The PADI Open Water Diver course consists of three main phases:</strong></p>
+<ul>
+<li>Knowledge Development ( <a href="https://apps.padi.com/scuba-diving/elearning/">online</a>, independent study or in a classroom) to understand basic principles of scuba diving</li>
+<li>Confined Water Dives to learn basic scuba skills</li>
+<li>Open Water Dives to use your skills and explore!</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/open-water-diver/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Discover Scuba Diving</title>
+		<link>/product/discover-scuba-diving/</link>
+					<comments>/product/discover-scuba-diving/#respond</comments>
+		
+		<dc:creator><![CDATA[Jorge Gallegos]]></dc:creator>
+		<pubDate>Wed, 06 May 2020 22:30:48 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=1900</guid>
+
+					<description><![CDATA[Diver certification begins here. Start with PADI's online eLearning course. Move to the pool and practice your new skills. Then experience four open water (ocean/lake) dives.]]></description>
+										<content:encoded><![CDATA[<p><strong>A quick and easy introduction into what it takes to explore the underwater world. Although this is not a scuba certification course, you&#8217;ll learn all the steps it takes to be a PADI certified diver.</strong></p>
+<p>Have you always wondered what it’s like to breathe underwater? If you want to try scuba diving, but aren’t quite ready to take the plunge into a certification course, Discover Scuba Diving is for you. PADI dive shops offer this program either in a pool, off a beach or from a dive boat. You can try scuba close to home or while you’re on vacation at a dive destination. While not a scuba certification course, Discover Scuba Diving is a quick and easy introduction to what it takes to explore the underwater world. To sign up for a PADI Discover Scuba Diving experience, you must be at least 10 years old. No prior experience with scuba diving is necessary, but you need to be in reasonable physical health. Are you ready to try it out? Use the event locator to find and schedule a Discover Scuba Diving experience near you.</p>
+<p>You learn the basic safety guidelines and skills needed to dive under the direct supervision of a PADI Professional. If you make an open water dive, you’ll practice a few more skills in shallow water to prepare for your adventure. Get ready to:</p>
+<ul>
+<li>Go over the <a title="Learn About Scuba Equipment" href="https://www.padi.com/help/gear-faq">scuba equipment</a> you use to dive and how easy it is to move around underwater with your gear.</li>
+<li>Find out what it’s like to breathe underwater.</li>
+<li>Learn key skills that you’ll use during every scuba dive.</li>
+<li>Have fun swimming around and exploring.</li>
+<li>Hear about becoming a certified diver through the <a title="PADI Open Water Diver Course" href="https://www.padi.com/courses/open-water-diver">PADI Open Water Diver course</a>.</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/discover-scuba-diving/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
