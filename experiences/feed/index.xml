@@ -8,333 +8,199 @@
 	>
 
 <channel>
-	<title>Products &#8211; Spearmex</title>
+	<title>Experiences | Spearmex</title>
 	<atom:link href="/experiences/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Luxury Fishing &#38; Spearfishing adventures in Punta Mita, Nayarit Mexico</description>
-	<lastBuildDate>Thu, 06 Jul 2023 07:53:56 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 19 Feb 2024 22:43:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.7</generator>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2023/03/favicon-100x100.png</url>
-	<title>Products &#8211; Spearmex</title>
+	<title>Experiences | Spearmex</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Sunset Cruise</title>
-		<link>/product/sunset-cruise/</link>
-					<comments>/product/sunset-cruise/#respond</comments>
+		<title>Spearo SeaDoo</title>
+		<link>/product/spearo-seadoo/</link>
 		
 		<dc:creator><![CDATA[Jorge Gallegos]]></dc:creator>
-		<pubDate>Tue, 21 Mar 2023 19:06:41 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=2315</guid>
+		<pubDate>Mon, 19 Feb 2024 22:30:09 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=2802</guid>
 
-					<description><![CDATA[Bask in the luxury of our yachts while you enjoy nature’s finest reminder of the here and now... the gentle slipping of the sun into the ocean.]]></description>
-										<content:encoded><![CDATA[<p>Sail aboard our yachts and toast to the closing of another day in paradise. The full bar and gourmet appetizers only add to the culmination of beauty for the senses as you enjoy the gentle sound of waves against the shoreline and the subtle smell of salt in the air</p>
-<ul>
-<li>Premium Spirits, Domestic Beers and Wine</li>
-<li>Cold Cuts and Cheese Platter</li>
-<li>Fresh Sashimi</li>
-<li>Seasonal Ceviche</li>
-<li>Well Drinks (Bottled Water and Sodas)</li>
-</ul>
-<p>Enjoy the Pacific sunset as it brings a gamma of oranges and pinks to the landscape’s deep ocean blues and tropical jungle greens. Revel in the unique perspective that only being on the ocean can offer</p>
-<h4>Features</h4>
-<ul>
-<li>Full Snorkel gear</li>
-<li>Sportfishing gear provided upon request</li>
-<li>Photos via GoPro</li>
-<li>Safety gear on every boat (life jackets and marine first aid kit)</li>
-<li>Specially trained, bilingual and experienced deckhands and Captain</li>
-</ul>
-]]></content:encoded>
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>/product/sunset-cruise/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Snorkel &#038; Cruising</title>
-		<link>/product/cruising-snorkel/</link>
-					<comments>/product/cruising-snorkel/#respond</comments>
+		<title>TOUT VA BIEN YACHT</title>
+		<link>/product/tout-va-bien-yacht/</link>
 		
 		<dc:creator><![CDATA[Jorge Gallegos]]></dc:creator>
-		<pubDate>Tue, 21 Mar 2023 18:40:25 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=2273</guid>
+		<pubDate>Mon, 19 Feb 2024 22:28:03 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=2794</guid>
 
-					<description><![CDATA[Water Toys on Four Wins 31"
-
-Explore this beautiful Mexican paradise in style!]]></description>
-										<content:encoded><![CDATA[<p>Relax and live it up while you cruise the north side of the bay, enjoying the beautiful island views and watching the underwater marine life and our seasonal whales (From December to March) and enjoy our water activities we have for you Like Snorkel, Floating Mat and ride a Ocean Donut in the pristine waters of the Punta Mita reefs.</p>
-<h4>Food:</h4>
-<ul>
-<li>Pastries (Banana Bread)</li>
-<li>Tropical Fruit,</li>
-<li>Snacks (Veggie Chips, Pretzels, Organic Chips, Peanuts),</li>
-<li>Fresh Ceviche and Sashimi,</li>
-<li>Cheese and Cold Cuts Platter</li>
-</ul>
-<h4>Water</h4>
-<ul>
-<li>San Pellegrino Sparkling Mineral Water (Flavors: Natural, Lemonade, Orange, Clementine)</li>
-<li>Electrolites</li>
-<li>National Beers</li>
-<li>Premium Tequila, White Wine (Sauvignon Blanc) and Prosecco</li>
-<li>Regular and Diet Coke</li>
-<li>For Kids Apple and Berries Juices.</li>
-</ul>
-]]></content:encoded>
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>/product/cruising-snorkel/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Jet Ski &#038; Tow Sports</title>
-		<link>/product/jet-ski/</link>
-					<comments>/product/jet-ski/#respond</comments>
+		<title>Sea Rayo</title>
+		<link>/product/sea-rayo/</link>
 		
 		<dc:creator><![CDATA[Jorge Gallegos]]></dc:creator>
-		<pubDate>Thu, 19 Aug 2021 17:29:19 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=2060</guid>
+		<pubDate>Mon, 19 Feb 2024 22:25:14 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=2782</guid>
 
-					<description><![CDATA[Enjoying tow sports from our JetSki has never been easier thanks to three exclusive features including the retractable LinQ ski pylon, ski mode, and wakeboard rack.]]></description>
-										<content:encoded><![CDATA[<h2>Sea Doo Wake Pro 230</h2>
-<p>Enjoying tow sports from our JetSki has never been easier thanks to three exclusive features including the retractable LinQ ski pylon, ski mode, and wakeboard rack.</p>
-<p>The first fully-integrated waterproof Audio System will keep the fun going anywhere you go, standard with 100 watts of total system power, fully-waterproof performance, Bluetooth connectivity, and external playback controls to ensure the perfect song is always on!</p>
-<p><strong>KEY FEATURES</strong></p>
-<ul>
-<li>BRP Audio &#8211; Premium Soundsystem</li>
-<li>Direct-access front storage</li>
-<li>Watertight phone compartment</li>
-<li>Boarding Ladder</li>
-</ul>
-<h3><strong>ACTIVITIES AVAILABLE</strong></h3>
-<p><strong>FOIL SURFING</strong></p>
-<p>Foilsurfing shifts that paradigm and completely redefines what kind of wave will get your heart racing.</p>
-<p>Your first foilsurfing lesson takes place in the waterway where the water is flat, so you can learn the basics of riding a foilboard. Once you&#8217;ve got the hang of foiling in flat water, we will advance you to the next step by taking you out into the ocean where we&#8217;ll begin towing into ocean swell.</p>
-<p>This is where you will learn how to catch and ride the swell energy and begin to learn the mechanics of pumping the foil to stay on the swell.</p>
-<p><strong>WIND FOILING</strong></p>
-<p>Windfoiling is relatively easy to learn, especially if you already know how to windsurf. The first few runs will be challenging as you need to get used to controlling the foil with small body movements. Pretty quickly you will finally understand the influence of your body weight and find the right position on your board.</p>
-<p>Windfoiling is also far less physically demanding than windsurfing. Since you&#8217;ll be flying above the sea, there is no friction between the water and your board. The hydrodynamic drag is minimal and you don&#8217;t get battered around by the waves.</p>
-<p>This makes windfoiling suitable for everybody, regardless of age or gender.</p>
-<p><strong>WAKE FOILING</strong></p>
-<p>Learning to how to foil is easy when you book a lesson with one of our experienced and knowledgeable coaches. Trying to figure it out on your own, on the other hand, can be a deeply intimidating and frustrating experience. When you learn with us, we&#8217;ll get you up on the foil the faster and safer way. Getting your first rides behind a jet ski dramatically simplifies and accelerates the learning curve.</p>
-<p>Instead of guessing and learning by trial and error, our coaches will teach you the mechanics of foiling through a gradual progression on equipment that makes it as easy and safe as possible. Whether you are interested in foiling with a kite, a boat, or in the waves, we can get you where you want to go.</p>
-<p><strong>WAKEBOARDING</strong></p>
-<p>The wake board is another popular choice on the water and you don’t have to be able snowboard or water ski to enjoy wakeboarding. It’s a sport that provides a sense of achievement and thrills even for even complete novices. Do not miss the opportunity of a Wakeboarding sesion.</p>
-<p>Allow yourself to relax allows your body to make changes and shift weight far easier than if you are tensed up. Before you are towed, you will start with the cable in hand and your knees drawn up as far as possible to your chest. Your arms should be stretched out in front of you.</p>
-<p>Wakeboarding is all about going with the flow; once you feel the cable being pulled, allow yourself to roll forward slightly and keep your knees locked as your speed increases. Before you know it, you will be standing upright!</p>
-<p><strong>DONUT RIDING</strong></p>
-<p>An inflatable tube which is designed to be like a donut is towed behind a watercraft. Immerse yourself in the experience of speed and thrill as you glide on the water. You not only get to be on the Donut while having a time of your life but you’ll also be able to soak in the amazing coastline.</p>
-<p>This amazing activity shouldn’t be missed especially by those who live for the high speed and thrill. With its twist and turns, high speed, it’ll surely test your strength while having the wildest ride of your life.</p>
-<p>Our donut ride is a great choice for anyone new to watersports. It is also an amazing way to introduce young kids to the world of watersports. As this activity is suitable for everyone, we take extra measures for children and new adventurers.</p>
-]]></content:encoded>
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>/product/jet-ski/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Advanced Open Water Diver</title>
-		<link>/product/advanced-open-water-diver/</link>
-					<comments>/product/advanced-open-water-diver/#respond</comments>
+		<title>La Tranquila</title>
+		<link>/product/tranquila-everglades/</link>
 		
 		<dc:creator><![CDATA[Jorge Gallegos]]></dc:creator>
-		<pubDate>Wed, 06 May 2020 22:37:33 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=1904</guid>
+		<pubDate>Sat, 10 Feb 2024 22:53:06 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=2708</guid>
 
-					<description><![CDATA[This course can be taken after completing the PADI Open Water Diver certification. It's titled PADI Advanced Open Water Diver because it advances your diving knowledge &#38;amp; skills.]]></description>
-										<content:encoded><![CDATA[<p><strong>This course can be taken after completing the PADI Open Water Diver certification. It&#8217;s titled PADI Advanced Open Water Diver because it advances your diving knowledge &amp; skills.</strong></p>
-<p>That’s what the PADI Advanced Open Water Diver course is all about. You don’t have to be “advanced” to take it – it’s designed to advance your diving, so you can start right after earning your PADI Open Water Diver certification. The course helps build confidence and expand your scuba skills through different Adventure Dives. You try out different specialties while gaining experience under the supervision of your PADI Instructor. You log dives and develop capabilities as you find new ways to have fun scuba diving.</p>
-<h2>Academic</h2>
-<p>You’ll plan your learning path with your instructor by choosing from a long list of Adventure Dives. There are two required dives – Deep and Underwater Navigation – and you choose the other three, for a total of five dives.<br />
-During the Deep Adventure Dive, you learn how to plan dives to deal with the physiological effects and challenges of deeper scuba diving. The Underwater Navigation Adventure Dive refines your compass navigation skills and helps you better navigate using kick-cycles, visual landmarks and time.</p>
-<p>The other knowledge and skills you get vary with your interest and the adventures you have – photography, buoyancy control, fish identification, exploring wrecks and many more.</p>
+					<description><![CDATA[35' Everglades A/C cabin with Triples 300HP Motors
+<ul>
+ 	<li>Length: 35 feet</li>
+ 	<li>Top speed: 45 mph</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>Spearmex offers the Everglades&#8217; 35oLX, a spacious fishing cruiser that can comfortably accommodate up to six people. This boat is equipped with numerous rod holders and storage options, including a 66-gallon fish box at the transom and Taco&#8217;sTM 18-foot Grand Slam Outriggers. With amenities like a head with shower, well-equipped galley, electric grill, and air conditioning, this boat is perfect for family fishing trips. Enjoy ample living space below deck without compromising on fishing functionality. Explore the Everglades&#8217; 35oLX and create unforgettable fishing experiences with your loved ones.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/product/advanced-open-water-diver/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Open Water Diver</title>
-		<link>/product/open-water-diver/</link>
-					<comments>/product/open-water-diver/#respond</comments>
+		<title>Riviera 45</title>
+		<link>/product/riviera-45/</link>
 		
 		<dc:creator><![CDATA[Jorge Gallegos]]></dc:creator>
-		<pubDate>Wed, 06 May 2020 22:34:16 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=1903</guid>
+		<pubDate>Sat, 10 Feb 2024 22:30:11 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=2685</guid>
 
-					<description><![CDATA[Diver certification begins here. Start with PADI's online eLearning course. Move to the pool and practice your new skills. Then experience four open water (ocean/lake) dives.]]></description>
-										<content:encoded><![CDATA[<p><strong>Diver certification begins here. Start with PADI&#8217;s online eLearning course. Move to the pool and practice your new skills. Then experience four open water (ocean/lake) dives.</strong></p>
-<p>If you’ve always wanted to take scuba diving lessons, experience unparalleled adventure and see the world beneath the waves, this is where it starts. Get your scuba diving certification with the PADI® Open Water Diver course – the world’s most popular and widely recognized scuba course. Millions of people have learned to scuba dive and gone on to discover the wonders of the aquatic world through this course. To enroll in a PADI Open Water Diver course (or Junior Open Water Diver course), you must be 10 years old or older. You need adequate swimming skills and need to be in good physical health. No prior experience with scuba diving is required.</p>
-<h2>Academic</h2>
-<p><strong>The PADI Open Water Diver course consists of three main phases:</strong></p>
+					<description><![CDATA[Tqke in a peerless view from the top, fishing or Bluewater cruising in a classic Riviera 45' flybridge design. Offering you fine "easy living" lifestyle over three levels.
 <ul>
-<li>Knowledge Development ( <a href="https://apps.padi.com/scuba-diving/elearning/">online</a>, independent study or in a classroom) to understand basic principles of scuba diving</li>
-<li>Confined Water Dives to learn basic scuba skills</li>
-<li>Open Water Dives to use your skills and explore!</li>
-</ul>
+ 	<li>Length: 45 feet</li>
+ 	<li>Cruising Speed: 18/20 knots.</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>Take in a breathtaking view from the top, whether you&#8217;re fishing or enjoying a blue-water cruising experience.</p>
+<p>Our classic Riviera 45&#8242; Flybridge design offers you a fine &#8220;easy living lifestyle&#8221; over three levels. It&#8217;s hard to decide what aspect of the Riviera 45 Open Flybridge guests will enjoy the most, as it provides exceptional performance for both entertaining and blue-water fishing. Friends and family will delight in the spacious, well-designed cockpit with its convenient &#8220;stair ladder&#8221; to the flybridge, as well as the luxurious saloon. Truly, every part of life on board is designed for your utmost enjoyment.</p>
+<p>Experience luxury on a whole new level, setting new standards for a yacht of this size. Guests will love retreating to the accommodation deck, featuring a master stateroom with a designer ensuite located forward. Additionally, treat your family and friends to the full-beam guest stateroom aft, which includes a VIP ensuite that conveniently doubles as the day head. The yacht is equipped with 2 x Caterpillar Mg&#8217;s 510HP motors, STARLINK Satellite High Speed Internet, and an Entertainment System with Netflix and Sirius Satellite Radio. The cabin includes a living room, dining area in the salon, and a bathroom. With two staterooms, the yacht offers ample space for everyone on board.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/product/open-water-diver/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Discover Scuba Diving</title>
-		<link>/product/discover-scuba-diving/</link>
-					<comments>/product/discover-scuba-diving/#respond</comments>
+		<title>Spearo 12</title>
+		<link>/product/spearo-12/</link>
 		
 		<dc:creator><![CDATA[Jorge Gallegos]]></dc:creator>
-		<pubDate>Wed, 06 May 2020 22:30:48 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=1900</guid>
+		<pubDate>Sat, 10 Feb 2024 22:16:49 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=2680</guid>
 
-					<description><![CDATA[Diver certification begins here. Start with PADI's online eLearning course. Move to the pool and practice your new skills. Then experience four open water (ocean/lake) dives.]]></description>
-										<content:encoded><![CDATA[<p><strong>A quick and easy introduction into what it takes to explore the underwater world. Although this is not a scuba certification course, you&#8217;ll learn all the steps it takes to be a PADI certified diver.</strong></p>
-<p>Have you always wondered what it’s like to breathe underwater? If you want to try scuba diving, but aren’t quite ready to take the plunge into a certification course, Discover Scuba Diving is for you. PADI dive shops offer this program either in a pool, off a beach or from a dive boat. You can try scuba close to home or while you’re on vacation at a dive destination. While not a scuba certification course, Discover Scuba Diving is a quick and easy introduction to what it takes to explore the underwater world. To sign up for a PADI Discover Scuba Diving experience, you must be at least 10 years old. No prior experience with scuba diving is necessary, but you need to be in reasonable physical health. Are you ready to try it out? Use the event locator to find and schedule a Discover Scuba Diving experience near you.</p>
-<p>You learn the basic safety guidelines and skills needed to dive under the direct supervision of a PADI Professional. If you make an open water dive, you’ll practice a few more skills in shallow water to prepare for your adventure. Get ready to:</p>
-<ul>
-<li>Go over the <a title="Learn About Scuba Equipment" href="https://www.padi.com/help/gear-faq">scuba equipment</a> you use to dive and how easy it is to move around underwater with your gear.</li>
-<li>Find out what it’s like to breathe underwater.</li>
-<li>Learn key skills that you’ll use during every scuba dive.</li>
-<li>Have fun swimming around and exploring.</li>
-<li>Hear about becoming a certified diver through the <a title="PADI Open Water Diver Course" href="https://www.padi.com/courses/open-water-diver">PADI Open Water Diver course</a>.</li>
-</ul>
-]]></content:encoded>
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>/product/discover-scuba-diving/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>The Ultimate 2 Day Offshore Adventure</title>
-		<link>/product/the-ultimate-2-day-offshore-adventure/</link>
-					<comments>/product/the-ultimate-2-day-offshore-adventure/#respond</comments>
+		<title>Spearo 5</title>
+		<link>/product/spearo-5/</link>
 		
 		<dc:creator><![CDATA[Jorge Gallegos]]></dc:creator>
-		<pubDate>Sat, 25 Apr 2020 20:30:08 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=1873</guid>
+		<pubDate>Sat, 10 Feb 2024 22:10:17 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=2679</guid>
 
-					<description><![CDATA[One of a lifetime opportunity to enjoy 2 Days at a unique Offshore Islands, pristine enviroment for Spearfishing, Scuba Diving and empty waves for surfing! Catering a Gourmet experience on board in our Custom grill, a weekend full of adrenaline!]]></description>
-										<content:encoded><![CDATA[<h2>Features:</h2>
-<ul>
-<li>Itinerary: Departure at 10:00 PM, plus 2 days at Offshore Lacation and returning at Sunset after dinner, arriving to the Marina in the following date for breakfast.</li>
-<li>2 days, 3 nights on board.</li>
-<li>Airport Round Trip Transfers</li>
-<li>Surfboards</li>
-<li>Professional freediving/snorkel guide</li>
-<li>Sportfishing &amp; spearfishing gear provided</li>
-<li>Scuba Diving available upon request for certified divers</li>
-<li>Full Snorkel gear</li>
-<li>Underwater photos and videos by GO PRO</li>
-<li>All drinks and meals are included.</li>
-<li>Camping setup available upon request for the night at the island</li>
-<li>Live Bait and Fish Cleaning / Vacuum seal packaging available at additional cost</li>
-<li>Safety gear on every boat (life jackets and marine first aid kit)</li>
-</ul>
-]]></content:encoded>
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>/product/the-ultimate-2-day-offshore-adventure/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>3 DAY Blue Water Hunting Package</title>
-		<link>/product/3-day-blue-water-hunting-package/</link>
-					<comments>/product/3-day-blue-water-hunting-package/#respond</comments>
+		<title>Spearo 4</title>
+		<link>/product/spearo-4/</link>
 		
 		<dc:creator><![CDATA[Jorge Gallegos]]></dc:creator>
-		<pubDate>Sat, 25 Apr 2020 20:26:38 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=1872</guid>
+		<pubDate>Sat, 10 Feb 2024 21:59:24 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=2654</guid>
 
-					<description><![CDATA[Based on our many years of experience and seeing the success of our clients in blue water we consider 3 days as the ideal time investment in order to achieve your dreams of that One Fish!]]></description>
-										<content:encoded><![CDATA[<h2>Includes:</h2>
+					<description><![CDATA[Four Winns 31ft &#38; Water Toys]]></description>
+										<content:encoded><![CDATA[<p><strong>Four Winns 31ft</strong></p>
 <ul>
-<li>3 days of hunting offshore (10 hour trip per day)</li>
-<li>Full RIFFE Gear</li>
-<li>Professional Guide and Captain.</li>
-<li>Live Bait</li>
-<li>Fish cleaning</li>
-<li>Food &amp; Drinks Included.</li>
-<li>Airport round trip transfers</li>
-<li>Vacuum seal packaging available at additional cost*</li>
-<li>Underwater photos</li>
-<li>Extra days available if requested.</li>
+<li>Two motors x 300 HP</li>
+<li>Maker: Four Winns</li>
+<li>Floating Water Bed</li>
+<li>Sun deck</li>
+<li>Retractable Shade</li>
+<li>Full size head bathroom</li>
+<li>Soundsystem</li>
+<li>Day cruising in water sports</li>
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/product/3-day-blue-water-hunting-package/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Curso de Apnea!</title>
-		<link>/product/curso-de-apnea/</link>
-					<comments>/product/curso-de-apnea/#respond</comments>
+		<title>Spearo 3</title>
+		<link>/product/spearo-3/</link>
 		
 		<dc:creator><![CDATA[Jorge Gallegos]]></dc:creator>
-		<pubDate>Sat, 25 Apr 2020 20:14:01 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=1870</guid>
+		<pubDate>Sat, 10 Feb 2024 21:03:37 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=2629</guid>
 
-					<description><![CDATA[Deje de soñar con el mundo submarino y aprenda Apnea con nosotros! Nos comprometemos a brindarle la mejor experiencia de aprendizaje junto con PADI.
-
-Precio: $5,000 pesos, mínimo 4 personas y máximo 6.]]></description>
-										<content:encoded><![CDATA[<p><strong>El curso PADI Freediver consta de tres fases principales:</strong></p>
+					<description><![CDATA[Spearmex presents the SEA HUNT CENTER CONSOLE, powered by a powerful 175 HP SUZUKI 4 STROKE OUTBOARD engine.
 <ul>
-<li>El desarrollo de conocimientos sobre los fundamentos del freediving</li>
-<li>Sesión en aguas confinadas para aprender técnicas de Apnea así como apnea estática y dinámica. Objetivo – apnea estática de 90 segundos y apnea dinámica de 25 metros/80 pies.</li>
-<li>Sesiones en aguas abiertas para practicar inmersión libre y freedives con peso constante. Objetivo &#8211; freedive con peso constante a 10 metros/30 pies.</li>
-</ul>
-<h2>Incluye:</h2>
-<ul>
-<li>Curso de 2 días</li>
-<li>Fotos y videos bajo el agua</li>
-<li>Materiales en línea y tarjeta de certificación</li>
-<li>Instructor profesional PADI certificado de apnea</li>
-<li>Bebidas y Snacks</li>
-<li>Día adicional para apnea con tarifa especial si se solicita.</li>
-</ul>
+ 	<li>Length: 24 feet</li>
+ 	<li>Max Speed:  25 knots</li>
+ 	<li>Max Capacity: 4 pax (inshore) 2 pax (offshore)</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>Spearmex presents the SEA HUNT CENTER CONSOLE, powered by a powerful 175 HP SUZUKI 4 STROKE OUTBOARD engine.</p>
+<p>This top-of-the-line fishing boat is designed to accommodate up to 4 PAX (inshore) or 2 PAX (offshore). With its latest design and exceptional performance, even in adverse weather conditions, it ensures an incredible experience at sea. The boat features a spacious deck with an extendable shade, a plotter, Fishfinder HDI, marine VHF radio, and a high-quality sound system. The padded bow seats offer comfort, while the bathroom and nursery for live bait provide added convenience. With outriggers, harpoon racks, and top-notch underwater sport fishing equipment, the Sea Hunt center console is perfect for experts seeking an exceptional fishing adventure.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/product/curso-de-apnea/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Coastal Foraging</title>
-		<link>/product/coastal-foraging/</link>
-					<comments>/product/coastal-foraging/#respond</comments>
+		<title>Spearo 2</title>
+		<link>/product/spearo-2/</link>
 		
 		<dc:creator><![CDATA[Jorge Gallegos]]></dc:creator>
-		<pubDate>Thu, 06 Feb 2020 18:35:52 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=1841</guid>
+		<pubDate>Sat, 10 Feb 2024 20:56:18 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=2614</guid>
 
-					<description><![CDATA[Join our marine biologist/guide and Four Seasons chef for a coastal walk in search of edible sea life amongst a world of sea stars and seaweed... native swimmers and scuttlers.]]></description>
-										<content:encoded><![CDATA[<p>Reading the seasons, timing the tides, and knowing your sea life can reveal a smorgasbord of healthy food for foraging. With the help of your guide and chef, you too can learn to recognize valuable sea life, learn their uses, and get to know some key recipes.</p>
-<p>Gathering and consuming wild plants and animal instills a greater respect for the environment that is their home. This experience reconnects us to the origins of our food and vividly illustrates our dependance on nature for our survival. You will not need to get into the ocean to take part in this empowering experience; however water shoes will be provided.<br />
-Step away from online recipes and store bought ingredients and into the forgotten reality that the earth provides everything we need.</p>
+					<description><![CDATA[Prosport Cataharan Center Console.
+Powered by twin 300HP Suzuki 4 stroke outboards
+<ul>
+ 	<li>Length: 30 feet</li>
+ 	<li>Max Speed: 35 knots</li>
+ 	<li>Max Capacity: 6 pax (inshore) 4 pax (offshore)</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>Spearmex presents the Prosport Cataharan Center Console. Powered by twin 300HP Suzuki 4 stroke outboards This 30-feet boat has a maximum speed of 35 knots. With a maximum capacity of 6 pax (inshore) or 4 pax (offshore), it offers ample deck space for fishing. Prepare your underwater fishing equipment or get ready to dive as it also comes with an extendable roof for extra shade, padded seats, plotter bathroom, and an IDH locator. Equipped with a marine VHF radio, ZSound system, padded bow seats, living bait nursery, outriggers, racks for harpoons, and high-quality sport and underwater fishing equipment.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/product/coastal-foraging/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

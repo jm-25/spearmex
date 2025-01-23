@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Los Cabos &amp; Baja | Spearmex</title>
+	<atom:link href="/product-category/los-cabos-baja/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Luxury Fishing &#38; Spearfishing adventures in Punta Mita, Nayarit Mexico</description>
+	<lastBuildDate>Thu, 08 Feb 2024 15:22:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/03/favicon-100x100.png</url>
+	<title>Los Cabos &amp; Baja | Spearmex</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>10 hr Full day experience Cabo Pulmo by Water</title>
+		<link>/product/10-hr-full-day-experience-cabo-pulmo-by-water/</link>
+		
+		<dc:creator><![CDATA[Jorge Gallegos]]></dc:creator>
+		<pubDate>Thu, 08 Feb 2024 15:22:24 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=2591</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Sunset Cruise 2 hrs</title>
+		<link>/product/sunset-cruise-2-hrs/</link>
+		
+		<dc:creator><![CDATA[Jorge Gallegos]]></dc:creator>
+		<pubDate>Thu, 08 Feb 2024 15:18:56 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=2590</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>4 hr Snorkel &#038; Cruise</title>
+		<link>/product/4-hr-snorkel-cruise/</link>
+		
+		<dc:creator><![CDATA[Jorge Gallegos]]></dc:creator>
+		<pubDate>Thu, 08 Feb 2024 15:18:05 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=2589</guid>
+
+					<description><![CDATA[Half day experience (whale watching during winter months)]]></description>
+										<content:encoded><![CDATA[Half day experience (whale watching during winter months)]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
