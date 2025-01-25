@@ -377,7 +377,7 @@ body {
   display: none !important;
 }
 
-body.checkfront .book-now-button {
+body.checkfront #main-content .book-now-button {
   display: inline-block !important;
 }
 body.checkfront #book-now {
