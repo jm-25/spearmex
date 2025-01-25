@@ -328,6 +328,7 @@ body {
   position: relative;
   width: 100%;
   height: 60vh;
+  max-height: 56vw;
   overflow: hidden;
 }
 #product-header .video-header-container:after, #product-header .image-header-container:after {
