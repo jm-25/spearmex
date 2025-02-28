@@ -63,7 +63,7 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,
 .et_pb_button[data-icon]:not([data-icon=""]):after{content:attr(data-icon)}@media (max-width:980px){.et_pb_button[data-icon-tablet]:not([data-icon-tablet=""]):after{content:attr(data-icon-tablet)}}@media (max-width:767px){.et_pb_button[data-icon-phone]:not([data-icon-phone=""]):after{content:attr(data-icon-phone)}}
 .et_pb_text{word-wrap:break-word}.et_pb_text ol,.et_pb_text ul{padding-bottom:1em}.et_pb_text>:last-child{padding-bottom:0}.et_pb_text_inner{position:relative}
 .et_pb_heading_container{position:relative}</style>
-<link rel="preload" id="divi-dynamic-css" href="/wp-content/et-cache/3085/et-divi-dynamic-tb-2840-tb-2841-3085.css?ver=1740251251" as="style" media="all" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" id="divi-dynamic-css" href="/wp-content/et-cache/3085/et-divi-dynamic-tb-2840-tb-2841-3085.css?ver=1740707649" as="style" media="all" onload="this.onload=null;this.rel='stylesheet'">
 <link rel="stylesheet" id="divi-masonry-gallery-styles-css" href="/wp-content/plugins/destaca-masonry-gallery/styles/style.min.css?ver=2.6.5" type="text/css" media="all">
 <link rel="stylesheet" id="Divi-child-style-css" href="/wp-content/themes/Divi-child/inc/css/main.css?ver=1737791794" type="text/css" media="all">
 <link rel="stylesheet" id="divi-style-css" href="/wp-content/themes/Divi-child/style.css?ver=4.27.4" type="text/css" media="all">
@@ -272,11 +272,54 @@ document.addEventListener("DOMContentLoaded",function(event) {elm.style.display=
 				
 				
 				
-				<div class="et_pb_code_inner">
-<iframe src="https://updates.incremendsolutions.com/widget/form/rHah3vLYAR5sbRJWAjZV" style="width:100%;height:100%;border:none;border-radius:3px" id="inline-rHah3vLYAR5sbRJWAjZV" data-layout="{'id':'INLINE'}" data-trigger-type="alwaysShow" data-trigger-value="" data-activation-type="alwaysActivated" data-activation-value="" data-deactivation-type="neverDeactivate" data-deactivation-value="" data-form-name="Form 7" data-height="523" data-layout-iframe-id="inline-rHah3vLYAR5sbRJWAjZV" data-form-id="rHah3vLYAR5sbRJWAjZV" title="Form 7">
-</iframe>
-<script src="https://updates.incremendsolutions.com/js/form_embed.js"></script>
-</div>
+				<div class="et_pb_code_inner">	    <form id="my-booking-form" action="https://usebasin.com/f/0a3a9d4cdbb0" method="POST">
+			<div id="form-fields">
+				<div class="form-row">
+					<div class="form-group col col-md-6">
+						<input type="text" id="name" name="name" placeholder="Your Name" required>
+					</div>
+					<div class="form-group col col-md-6">
+						<input type="email" id="email" name="email" placeholder="Your Email" required>
+					</div>
+				</div>
+				
+				
+				<div class="form-row">
+					<div class="form-group col col-md-6">
+						<select id="contact-option" name="contact-option" class="form-control" style="width: 100%" required>
+							<option value="Contact">Contact</option>
+							<option value="Book an experience">Book an experience</option>
+							<option value="Complaints or suggestions">Complaints or suggestions</option>
+							<option value="Other">Other</option>
+						</select>					
+					</div>
+					<div class="form-group col col-md-6">
+						<input type="text" id="email-title" name="email-title" placeholder="Subject" required>
+					</div>
+				</div>
+	
+				<div class="form-row">
+					<div class="form-group col">
+						<input type="text" id="staying-at" name="staying-at" placeholder="Staying at..." required>
+					</div>
+				</div>
+							
+				<div class="form-row">
+					<div class="form-group col">
+						<label for="message">Message</label>
+						<textarea id="message" class="form-control" size="40" rows="6" name="message" required=""></textarea>
+					</div>
+				</div>
+				<div class="form-row">
+					<div class="form-group col">
+						<input type="hidden" name="hp-field">
+						<button type="submit" class="add_to_cart_button">Submit</button>
+					</div>
+				</div>
+			</div>
+			<div id="ajax-message"></div>
+	    </form>
+	</div>
 			</div>
 			</div>
 				
@@ -408,7 +451,7 @@ document.addEventListener("DOMContentLoaded",function(event) {elm.style.display=
 		</div>
 	</div>
 	</div>		<script type="text/javascript">var divioverlays_ajaxurl = "/"
-		, divioverlays_us = "5d663fe674"
+		, divioverlays_us = "e65dd8050b"
 		, divioverlays_loadingimg = "/wp-content/plugins/divi-overlays/assets/img/divilife-loader.svg";</script>
 		<div id="page-container">
 <div id="et-boc" class="et-boc">
@@ -941,7 +984,7 @@ document.addEventListener("DOMContentLoaded",function(event) {elm.style.display=
 var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
 var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"};
 var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
-var et_pb_custom = {"ajaxurl":"\/wp-admin\/admin-ajax.php","images_uri":"\/wp-content\/themes\/Divi\/images","builder_images_uri":"\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"d0f975a23a","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"7916607862","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"3085","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":"\/wp-content\/themes\/Divi\/includes\/builder\/frontend-builder\/assets\/vendors","accent_color":"#2ea3f2","waypoints_options":[]};
+var et_pb_custom = {"ajaxurl":"\/wp-admin\/admin-ajax.php","images_uri":"\/wp-content\/themes\/Divi\/images","builder_images_uri":"\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"a4a4d86354","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"6c0796809f","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"3085","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":"\/wp-content\/themes\/Divi\/includes\/builder\/frontend-builder\/assets\/vendors","accent_color":"#2ea3f2","waypoints_options":[]};
 var et_pb_box_shadow_elements = [];
 /* ]]> */
 </script>
@@ -961,7 +1004,7 @@ var wc_order_attribution = {"params":{"lifetime":1.0e-5,"session":30,"base64":fa
 <script type="text/javascript" src="/wp-content/plugins/destaca-masonry-gallery/scripts/magnific-popup.min.js?ver=1.3.0" id="magnific-popup-js"></script>
 <script type="text/javascript" id="dmg-functions-js-extra">
 /* <![CDATA[ */
-var dmg_ajax_obj = {"ajaxurl":"\/wp-admin\/admin-ajax.php","security_nonce":"27b5a27cef"};
+var dmg_ajax_obj = {"ajaxurl":"\/wp-admin\/admin-ajax.php","security_nonce":"f4ae5755ef"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="/wp-content/plugins/destaca-masonry-gallery/scripts/functions.min.js?ver=2.6.5" id="dmg-functions-js"></script>
