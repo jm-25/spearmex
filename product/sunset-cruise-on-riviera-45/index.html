@@ -77,7 +77,7 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,
 .et_pb_wc_description{word-wrap:break-word}
 .et_pb_text{word-wrap:break-word}.et_pb_text ol,.et_pb_text ul{padding-bottom:1em}.et_pb_text>:last-child{padding-bottom:0}.et_pb_text_inner{position:relative}
 .et_pb_heading_container{position:relative}</style>
-<link rel="preload" id="divi-dynamic-css" href="/wp-content/et-cache/3676/et-divi-dynamic-tb-2840-tb-3734-tb-2841-3676.css?ver=1751655515" as="style" media="all" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" id="divi-dynamic-css" href="/wp-content/et-cache/3676/et-divi-dynamic-tb-2840-tb-3734-tb-2841-3676.css?ver=1752532402" as="style" media="all" onload="this.onload=null;this.rel='stylesheet'">
 <link rel="stylesheet" id="divi-masonry-gallery-styles-css" href="/wp-content/plugins/destaca-masonry-gallery/styles/style.min.css?ver=2.6.5" type="text/css" media="all">
 <link rel="stylesheet" id="Divi-child-style-css" href="/wp-content/themes/Divi-child/inc/css/main.css?ver=1749520304" type="text/css" media="all">
 <link rel="stylesheet" id="divi-style-css" href="/wp-content/themes/Divi-child/style.css?ver=4.27.4" type="text/css" media="all">
@@ -222,13 +222,39 @@ float: left;
 <script type="text/javascript">var elm=document.getElementsByTagName("html")[0];
 elm.style.display="none";
 document.addEventListener("DOMContentLoaded",function(event) {elm.style.display="block"; });</script>
+<script>jQuery(document).ready(function($) {
+		$("a").mouseenter(function() {
+			let pac_da_href = $(this).attr("href");
+			if (pac_da_href !== undefined && pac_da_href.startsWith("#")) {
+				$(this).css('cursor', 'pointer');
+				$(this).attr("pac_da_href", pac_da_href);
+				$(this).removeAttr("href");
+			}
+		}).mouseleave(function() {
+			let pac_da_href = $(this).attr("pac_da_href");
+			if(pac_da_href !== undefined){
+				$(this).css('cursor', '');
+				$(this).attr("href", pac_da_href);
+				$(this).removeAttr("pac_da_href");
+			}	
+		});
+		jQuery('a').on('click', function(event) {
+			var hash = $(this).attr('pac_da_href');
+			if (hash && hash.startsWith('#')) {
+				var targetScrollPosition = $(hash).offset().top - 73;
+				$('html, body').animate({
+					scrollTop: targetScrollPosition
+				});
+			}
+		});
+	});</script>
 <style class="wp-fonts-local" type="text/css">@font-face{font-family:Inter;font-style:normal;font-weight:300 900;font-display:fallback;src:url('/wp-content/plugins/woocommerce/assets/fonts/Inter-VariableFont_slnt,wght.woff2') format('woff2');font-stretch:normal;}
 @font-face{font-family:Cardo;font-style:normal;font-weight:400;font-display:fallback;src:url('/wp-content/plugins/woocommerce/assets/fonts/cardo_normal_400.woff2') format('woff2');}</style>
 <link rel="icon" href="/wp-content/uploads/2023/03/favicon-100x100.png" sizes="32x32">
 <link rel="icon" href="/wp-content/uploads/2023/03/favicon.png" sizes="192x192">
 <link rel="apple-touch-icon" href="/wp-content/uploads/2023/03/favicon.png">
 <meta name="msapplication-TileImage" content="/wp-content/uploads/2023/03/favicon.png">
-<link rel="stylesheet" id="et-divi-customizer-global-cached-inline-styles" href="/wp-content/et-cache/global/et-divi-customizer-global.min.css?ver=1751651623">
+<link rel="stylesheet" id="et-divi-customizer-global-cached-inline-styles" href="/wp-content/et-cache/global/et-divi-customizer-global.min.css?ver=1752532186">
 </head>
 <body class="product-template-default single single-product postid-3676 theme-Divi et-tb-has-template et-tb-has-header et-tb-has-body et-tb-has-footer woocommerce woocommerce-page woocommerce-no-js et_pb_button_helper_class et_cover_background et_pb_gutter et_pb_gutters3 et_divi_theme et-db">
 	<script type="text/javascript">var overlays_with_css_trigger = {};</script><script type="text/javascript">var overlays_with_automatic_trigger = {'3196': '{"at_type":"0","at_value":"0","at_onceperload":"0"}','2990': '{"at_type":"0","at_value":"0","at_onceperload":"0"}','2954': '{"at_type":"0","at_value":"0","at_onceperload":"0"}',};</script><style>.overlay-customclose-btn-2990 {
@@ -464,7 +490,7 @@ document.addEventListener("DOMContentLoaded",function(event) {elm.style.display=
 		</div>
 	</div>
 	</div>		<script type="text/javascript">var divioverlays_ajaxurl = "/"
-		, divioverlays_us = "ccd3070c19"
+		, divioverlays_us = "1092459d1b"
 		, divioverlays_loadingimg = "/wp-content/plugins/divi-overlays/assets/img/divilife-loader.svg";</script>
 		<div id="page-container">
 <div id="et-boc" class="et-boc">
@@ -1362,7 +1388,7 @@ document.addEventListener("DOMContentLoaded",function(event) {elm.style.display=
 var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
 var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"};
 var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
-var et_pb_custom = {"ajaxurl":"\/wp-admin\/admin-ajax.php","images_uri":"\/wp-content\/themes\/Divi\/images","builder_images_uri":"\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"3d01fdbe67","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"dd20713319","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"3676","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":"\/wp-content\/themes\/Divi\/includes\/builder\/frontend-builder\/assets\/vendors","accent_color":"#2ea3f2","waypoints_options":[]};
+var et_pb_custom = {"ajaxurl":"\/wp-admin\/admin-ajax.php","images_uri":"\/wp-content\/themes\/Divi\/images","builder_images_uri":"\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"8667322010","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"259de621c5","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"3676","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":"\/wp-content\/themes\/Divi\/includes\/builder\/frontend-builder\/assets\/vendors","accent_color":"#2ea3f2","waypoints_options":[]};
 var et_pb_box_shadow_elements = [];
 /* ]]> */
 </script>
@@ -1389,7 +1415,7 @@ var et_modules_wrapper = {"builderCssContainerPrefix":"#et-boc","builderCssLayou
 <script type="text/javascript" src="/wp-content/plugins/destaca-masonry-gallery/scripts/magnific-popup.min.js?ver=1.3.0" id="magnific-popup-js"></script>
 <script type="text/javascript" id="dmg-functions-js-extra">
 /* <![CDATA[ */
-var dmg_ajax_obj = {"ajaxurl":"\/wp-admin\/admin-ajax.php","security_nonce":"e72d0cf2c0"};
+var dmg_ajax_obj = {"ajaxurl":"\/wp-admin\/admin-ajax.php","security_nonce":"3777c4b362"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="/wp-content/plugins/destaca-masonry-gallery/scripts/functions.min.js?ver=2.6.5" id="dmg-functions-js"></script>
