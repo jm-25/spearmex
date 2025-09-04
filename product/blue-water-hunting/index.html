@@ -76,7 +76,7 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,
 .et_pb_wc_description{word-wrap:break-word}
 .et_pb_text{word-wrap:break-word}.et_pb_text ol,.et_pb_text ul{padding-bottom:1em}.et_pb_text>:last-child{padding-bottom:0}.et_pb_text_inner{position:relative}
 .et_pb_heading_container{position:relative}</style>
-<link rel="preload" id="divi-dynamic-css" href="/wp-content/et-cache/484/et-divi-dynamic-tb-2840-tb-2739-tb-2841-484.css?ver=1756310327" as="style" media="all" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" id="divi-dynamic-css" href="/wp-content/et-cache/484/et-divi-dynamic-tb-2840-tb-2739-tb-2841-484.css?ver=1757008589" as="style" media="all" onload="this.onload=null;this.rel='stylesheet'">
 <link rel="stylesheet" id="divi-masonry-gallery-styles-css" href="/wp-content/plugins/destaca-masonry-gallery/styles/style.min.css?ver=2.6.5" type="text/css" media="all">
 <link rel="stylesheet" id="Divi-child-style-css" href="/wp-content/themes/Divi-child/inc/css/main.css?ver=1756229835" type="text/css" media="all">
 <link rel="stylesheet" id="divi-style-css" href="/wp-content/themes/Divi-child/style.css?ver=4.27.4" type="text/css" media="all">
@@ -133,7 +133,12 @@ var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":
 <link rel="shortlink" href="/?p=484">
 <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fproduct%2Fblue-water-hunting%2F">
 <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fproduct%2Fblue-water-hunting%2F#038;format=xml">
-		<!-- Google Scripts are in the child theme -->
+		<!-- Google Recaptcha for usebasin-->
+		<!-- <script src="https://www.google.com/recaptcha/api.js" async defer></script> -->
+		<script src="https://js.usebasin.com/v2.9.0.min.js" defer></script>
+
+			<!-- Google Scripts are in the child theme -->
+		
 		<!-- Google Tag Manager -->
 		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -253,7 +258,7 @@ document.addEventListener("DOMContentLoaded",function(event) {elm.style.display=
 <link rel="icon" href="/wp-content/uploads/2023/03/favicon.png" sizes="192x192">
 <link rel="apple-touch-icon" href="/wp-content/uploads/2023/03/favicon.png">
 <meta name="msapplication-TileImage" content="/wp-content/uploads/2023/03/favicon.png">
-<link rel="stylesheet" id="et-divi-customizer-global-cached-inline-styles" href="/wp-content/et-cache/global/et-divi-customizer-global.min.css?ver=1756232845">
+<link rel="stylesheet" id="et-divi-customizer-global-cached-inline-styles" href="/wp-content/et-cache/global/et-divi-customizer-global.min.css?ver=1756479837">
 </head>
 <body class="product-template-default single single-product postid-484 theme-Divi et-tb-has-template et-tb-has-header et-tb-has-body et-tb-has-footer woocommerce woocommerce-page woocommerce-no-js et_pb_button_helper_class et_cover_background et_pb_gutter et_pb_gutters3 et_divi_theme et-db">
 	<script type="text/javascript">var overlays_with_css_trigger = {};</script><script type="text/javascript">var overlays_with_automatic_trigger = {'3196': '{"at_type":"0","at_value":"0","at_onceperload":"0"}','2990': '{"at_type":"0","at_value":"0","at_onceperload":"0"}','2954': '{"at_type":"0","at_value":"0","at_onceperload":"0"}',};</script><style>.overlay-customclose-btn-2990 {
@@ -427,14 +432,14 @@ document.addEventListener("DOMContentLoaded",function(event) {elm.style.display=
 				
 				
 				
-				<div class="et_pb_code_inner">	    <form id="my-booking-form" action="https://usebasin.com/f/0a3a9d4cdbb0" method="POST">
+				<div class="et_pb_code_inner">	    <form id="my-booking-form" data-basin-form data-basin-spam-protection="recaptcha-v3" data-basin-success-action="render" action="https://usebasin.com/f/0a3a9d4cdbb0" method="POST">
 			<div id="form-fields">
 				<div class="form-row">
 					<div class="form-group col col-md-6">
-						<input type="text" id="name" name="name" placeholder="Your Name" required>
+						<input type="text" id="name" name="name" placeholder="Name / Nombre" required>
 					</div>
 					<div class="form-group col col-md-6">
-						<input type="email" id="email" name="email" placeholder="Your Email" required>
+						<input type="email" id="email" name="email" placeholder="Email" required>
 					</div>
 				</div>
 				
@@ -442,38 +447,40 @@ document.addEventListener("DOMContentLoaded",function(event) {elm.style.display=
 				<div class="form-row">
 					<div class="form-group col col-md-6">
 						<select id="contact-option" name="contact-option" class="form-control" style="width: 100%" required>
-							<option value="Contact">Contact</option>
-							<option value="Book an experience">Book an experience</option>
-							<option value="Complaints or suggestions">Complaints or suggestions</option>
-							<option value="Other">Other</option>
+							<option value="Contact">Contact / Contacto</option>
+							<option value="Book an experience">Book an experience / Reserva</option>
+							<option value="Suggestions">Suggestions / Sugerencias</option>
+							<option value="Other">Other / Otro</option>
 						</select>					
 					</div>
 					<div class="form-group col col-md-6">
-						<input type="text" id="email-title" name="email-title" placeholder="Subject" required>
+						<input type="text" id="email-title" name="email-title" placeholder="Subject / Asunto" required>
 					</div>
 				</div>
-	
+				
 				<div class="form-row">
 					<div class="form-group col">
-						<input type="text" id="staying-at" name="staying-at" placeholder="Staying at..." required>
+						<input type="text" id="staying-at" name="staying-at" placeholder="Staying at... / Hospedado en... " required>
 					</div>
 				</div>
 							
 				<div class="form-row">
 					<div class="form-group col">
-						<label for="message">Message</label>
+						<label for="message">Message / Mensaje</label>
 						<textarea id="message" class="form-control" size="40" rows="6" name="message" required=""></textarea>
 					</div>
 				</div>
 				<div class="form-row">
 					<div class="form-group col">
 						<input type="hidden" name="hp-field">
-						<button type="submit" class="add_to_cart_button">Submit</button>
+						<button type="submit" class="add_to_cart_button">Submit / Enviar</button>
 					</div>
 				</div>
 			</div>
 			<div id="ajax-message"></div>
 	    </form>
+		<div id="form1-success" style="display: none;">Thank you for your submission! 🚀🚀🚀</div>
+		<div id="form1-error" style="display: none;">Oops, something went wrong 🚨🚨🚨</div>
 	</div>
 			</div>
 <div class="et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_left et_pb_bg_layout_light">
@@ -498,7 +505,7 @@ document.addEventListener("DOMContentLoaded",function(event) {elm.style.display=
 		</div>
 	</div>
 	</div>		<script type="text/javascript">var divioverlays_ajaxurl = "/"
-		, divioverlays_us = "39d6c56c76"
+		, divioverlays_us = "d72a5523b2"
 		, divioverlays_loadingimg = "/wp-content/plugins/divi-overlays/assets/img/divilife-loader.svg";</script>
 		<div id="page-container">
 <div id="et-boc" class="et-boc">
@@ -942,13 +949,22 @@ Wahoo/Wahoo</p>
 
 
 
-<li class="product type-product post-1904 status-publish first instock product_cat-academy product_cat-experiences-in-punta-mita product_cat-scubadiving has-post-thumbnail shipping-taxable product-type-simple">
-	<span class="et_shop_image"><img width="448" height="336" src="/wp-content/uploads/2020/05/advanced-open-water-diver_0.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" srcset="/wp-content/uploads/2020/05/advanced-open-water-diver_0.jpg 448w, /wp-content/uploads/2020/05/advanced-open-water-diver_0-300x225.jpg 300w" sizes="(max-width: 448px) 100vw, 448px"><span class="et_overlay"></span></span><div class="product-body">
-<h2 class="woocommerce-loop-product__title">Advanced Open Water Diver Certification</h2>	<div class="tour-meta">
-				
+<li class="et_pb_post product type-product post-3761 status-publish first instock product_cat-expedition product_cat-experiences-in-punta-mita product_tag-summer-special has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<span class="et_shop_image"><img width="600" height="450" src="/wp-content/uploads/2025/06/shared-snorkeling-600x450.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async"><span class="et_overlay"></span></span><span class="acoplw-badge acoplw-textBlock"><span class="acoplw-badge-icon acoplw-bsfour acoplwRightAlign acoplwPosTop acoplw-custom-badge-3481" style="opacity:1;width:102px;font-size:px;line-height:px;font-weight: 400;transform:rotateX(0deg) rotateY(0deg) rotateZ(0deg);border-radius: 0px 3px 3px 0px;top:19px;bottom:auto;background:rgba(208, 2, 27, 1);"><span class="acoplw-blockText" style="color:rgba(255, 255, 255, 1);">SPECIAL</span></span></span><div class="product-body">
+<h2 class="woocommerce-loop-product__title">Local Shared Snorkel Cruise</h2>	<div class="tour-meta">
+			<div class="tour-price">
+			 $115 USD
+		</div>
+				<div class="tour-time">
+			<svg width="18" height="18" viewbox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M9 1.5C4.8645 1.5 1.5 4.8645 1.5 9C1.5 13.1355 4.8645 16.5 9 16.5C13.1355 16.5 16.5 13.1355 16.5 9C16.5 4.8645 13.1355 1.5 9 1.5ZM9 15C5.69175 15 3 12.3082 3 9C3 5.69175 5.69175 3 9 3C12.3082 3 15 5.69175 15 9C15 12.3082 12.3082 15 9 15Z" fill="#6e7378"></path><path d="M9.75 5.25H8.25V9.75H12.75V8.25H9.75V5.25Z" fill="#6e7378"></path></svg>
+			2 Hours		</div>
+				<div class="tour-notes">
+		 <div class="price-notes"> /person (max 8 people) </div>				</div>
+		
+		
 	</div>
 	</div>
-<div class="readmore"><a class="readmore" href="/product/advanced-open-water-diver/" data-product_id="1904" aria-label="Read more Advanced Open Water Diver Certification" rel="nofollow">Explore</a></div>
+<div class="readmore"><a class="readmore" href="/product/local-shared-snorkel-cruise/" data-product_id="3761" aria-label="Read more Local Shared Snorkel Cruise" rel="nofollow">Explore</a></div>
 </li>
 
 			
@@ -956,13 +972,22 @@ Wahoo/Wahoo</p>
 
 
 
-<li class="product type-product post-1903 status-publish instock product_cat-academy product_cat-experiences-in-punta-mita product_cat-scubadiving has-post-thumbnail shipping-taxable product-type-simple">
-	<span class="et_shop_image"><img width="448" height="336" src="/wp-content/uploads/2020/05/adaptive_hero_standard_com.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" srcset="/wp-content/uploads/2020/05/adaptive_hero_standard_com.jpg 448w, /wp-content/uploads/2020/05/adaptive_hero_standard_com-300x225.jpg 300w" sizes="(max-width: 448px) 100vw, 448px"><span class="et_overlay"></span></span><div class="product-body">
-<h2 class="woocommerce-loop-product__title">Open Water Diver Certification</h2>	<div class="tour-meta">
-				
+<li class="product type-product post-2315 status-publish instock product_cat-expedition product_cat-experiences-in-punta-mita has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<span class="et_shop_image"><img width="600" height="450" src="/wp-content/uploads/2023/03/2-2-600x450.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async"><span class="et_overlay"></span></span><div class="product-body">
+<h2 class="woocommerce-loop-product__title">Sunset Cruise</h2>	<div class="tour-meta">
+			<div class="tour-price">
+			 <span class="price-suffix"> From </span> $1394 USD
+		</div>
+				<div class="tour-time">
+			<svg width="18" height="18" viewbox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M9 1.5C4.8645 1.5 1.5 4.8645 1.5 9C1.5 13.1355 4.8645 16.5 9 16.5C13.1355 16.5 16.5 13.1355 16.5 9C16.5 4.8645 13.1355 1.5 9 1.5ZM9 15C5.69175 15 3 12.3082 3 9C3 5.69175 5.69175 3 9 3C12.3082 3 15 5.69175 15 9C15 12.3082 12.3082 15 9 15Z" fill="#6e7378"></path><path d="M9.75 5.25H8.25V9.75H12.75V8.25H9.75V5.25Z" fill="#6e7378"></path></svg>
+			2 Hours		</div>
+				<div class="tour-notes">
+		 <div class="price-notes"> /boat (max 6 pax) </div>				</div>
+		
+		
 	</div>
 	</div>
-<div class="readmore"><a class="readmore" href="/product/open-water-diver/" data-product_id="1903" aria-label="Read more Open Water Diver Certification" rel="nofollow">Explore</a></div>
+<div class="readmore"><a class="readmore" href="/product/sunset-cruise/" data-product_id="2315" aria-label="Read more Sunset Cruise" rel="nofollow">Explore</a></div>
 </li>
 
 			
@@ -970,13 +995,22 @@ Wahoo/Wahoo</p>
 
 
 
-<li class="product type-product post-86 status-publish last instock product_cat-expedition product_cat-experiences-in-punta-mita product_cat-sportfishing product_tag-map-fishing-sites has-post-thumbnail shipping-taxable product-type-simple">
-	<span class="et_shop_image"><img width="600" height="450" src="/wp-content/uploads/2018/07/Big-game-fishing-600x450.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async"><span class="et_overlay"></span></span><div class="product-body">
-<h2 class="woocommerce-loop-product__title">Big Game Fishing</h2>	<div class="tour-meta">
-				
+<li class="product type-product post-483 status-publish last instock product_cat-expedition product_cat-experiences-in-punta-mita product_cat-spearfishing product_tag-luxury-fishing-charters-puerto-vallarta product_tag-luxury-fishing-punta-mita product_tag-luxury-sport-fishing-puerto-vallarta product_tag-spearfishing product_tag-spearfishing-punta-mita has-post-thumbnail virtual purchasable product-type-simple">
+	<span class="et_shop_image"><img width="600" height="450" src="/wp-content/uploads/2018/07/Spearfishing-Spearmex-Punta-Mita-Mexico-001-600x450.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async"><span class="et_overlay"></span></span><div class="product-body">
+<h2 class="woocommerce-loop-product__title">Inshore Guided Spearfishing</h2>	<div class="tour-meta">
+			<div class="tour-price">
+			 <span class="price-suffix"> From </span> $717 USD
+		</div>
+				<div class="tour-time">
+			<svg width="18" height="18" viewbox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M9 1.5C4.8645 1.5 1.5 4.8645 1.5 9C1.5 13.1355 4.8645 16.5 9 16.5C13.1355 16.5 16.5 13.1355 16.5 9C16.5 4.8645 13.1355 1.5 9 1.5ZM9 15C5.69175 15 3 12.3082 3 9C3 5.69175 5.69175 3 9 3C12.3082 3 15 5.69175 15 9C15 12.3082 12.3082 15 9 15Z" fill="#6e7378"></path><path d="M9.75 5.25H8.25V9.75H12.75V8.25H9.75V5.25Z" fill="#6e7378"></path></svg>
+			3 Hours		</div>
+				<div class="tour-notes">
+		 <div class="price-notes"> /Boat (max 4 pax) </div>		 <div class="tour-info"> 24 feet power boat </div>		</div>
+		
+		
 	</div>
 	</div>
-<div class="readmore"><a class="readmore" href="/product/big-game-fishing/" data-product_id="86" aria-label="Read more Big Game Fishing" rel="nofollow">Explore</a></div>
+<div class="readmore"><a class="readmore" href="/product/spearfishing-inshore/" data-product_id="483" aria-label="Read more Inshore Guided Spearfishing" rel="nofollow">Explore</a></div>
 </li>
 
 			
@@ -1136,7 +1170,7 @@ Wahoo/Wahoo</p>
 		</div>
 		</div>
 
-			<style>.products .acoplw-badge-icon{visibility:visible;} .onsale,.ast-onsale-card{display:none !important;}</style>		<!-- Google Tag Manager (noscript) -->
+			<style>.products .acoplw-badge-icon{visibility:visible;} .onsale,.ast-onsale-card{display:none !important;} .acoplw-custom-badge-3481:before { border-color:rgba(208, 2, 27, 1) !important; border-left-color: transparent !important; }.acoplw-custom-badge-3481 { opacity:1;width:102px;font-size:px;line-height:px;font-weight: 400;transform:rotateX(0deg) rotateY(0deg) rotateZ(0deg);border-radius: 0px 3px 3px 0px;top:19px;bottom:auto;background:rgba(208, 2, 27, 1); } .acoplw-badge{visibility:visible;}</style>		<!-- Google Tag Manager (noscript) -->
 		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N88T7RT5" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<!-- End Google Tag Manager (noscript) -->
 	 <script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"Home","@id":""}},{"@type":"ListItem","position":2,"item":{"name":"Expedition","@id":"\/product-category\/expedition\/"}},{"@type":"ListItem","position":3,"item":{"name":"Blue Water Hunting","@id":"\/product\/blue-water-hunting\/"}}]}</script>		<script type="application/javascript">(function() {
@@ -1206,7 +1240,7 @@ Wahoo/Wahoo</p>
 var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
 var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"};
 var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
-var et_pb_custom = {"ajaxurl":"\/wp-admin\/admin-ajax.php","images_uri":"\/wp-content\/themes\/Divi\/images","builder_images_uri":"\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"dbcc9d8d33","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"39f6c74fb6","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"484","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":"\/wp-content\/themes\/Divi\/includes\/builder\/frontend-builder\/assets\/vendors","accent_color":"#2ea3f2","waypoints_options":[]};
+var et_pb_custom = {"ajaxurl":"\/wp-admin\/admin-ajax.php","images_uri":"\/wp-content\/themes\/Divi\/images","builder_images_uri":"\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"7fe7c84ba2","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"18780ae5ec","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"484","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":"\/wp-content\/themes\/Divi\/includes\/builder\/frontend-builder\/assets\/vendors","accent_color":"#2ea3f2","waypoints_options":[]};
 var et_pb_box_shadow_elements = [];
 /* ]]> */
 </script>
@@ -1233,7 +1267,7 @@ var et_modules_wrapper = {"builderCssContainerPrefix":"#et-boc","builderCssLayou
 <script type="text/javascript" src="/wp-content/plugins/destaca-masonry-gallery/scripts/magnific-popup.min.js?ver=1.3.0" id="magnific-popup-js"></script>
 <script type="text/javascript" id="dmg-functions-js-extra">
 /* <![CDATA[ */
-var dmg_ajax_obj = {"ajaxurl":"\/wp-admin\/admin-ajax.php","security_nonce":"a88831ca9a"};
+var dmg_ajax_obj = {"ajaxurl":"\/wp-admin\/admin-ajax.php","security_nonce":"a9c6fada78"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="/wp-content/plugins/destaca-masonry-gallery/scripts/functions.min.js?ver=2.6.5" id="dmg-functions-js"></script>
