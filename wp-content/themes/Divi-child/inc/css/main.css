@@ -397,7 +397,7 @@ body {
   display: none !important;
 }
 
-body.checkfront #main-content .book-now-button, body.checkfront .book-now-button {
+/* body.checkfront #main-content .book-now-button, body.checkfront .book-now-button {
   display: inline-block !important;
 }
 body.checkfront #book-now {
@@ -405,7 +405,7 @@ body.checkfront #book-now {
 }
 body.checkfront .reserve-now-button {
   display: none !important;
-}
+} */
 
 /*
 --- Contact Styles ---
